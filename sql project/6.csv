@@ -1,0 +1,541 @@
+module_title,course_title
+Introduction,"Python Programming"
+"Intermediate Concepts","Python Programming"
+Introduction,"Java Programming"
+"Intermediate Concepts","Java Programming"
+Introduction,"C Programming"
+"Intermediate Concepts","C Programming"
+Introduction,"C++ Programming"
+"Intermediate Concepts","C++ Programming"
+Introduction,MySQL
+"Intermediate Concepts",MySQL
+Introduction,"HTML & CSS"
+"Intermediate Concepts","HTML & CSS"
+Introduction,JavaScript
+"Intermediate Concepts",JavaScript
+Introduction,"React JS"
+"Intermediate Concepts","React JS"
+Introduction,"Node JS"
+"Intermediate Concepts","Node JS"
+Introduction,PHP
+"Intermediate Concepts",PHP
+Introduction,Laravel
+"Intermediate Concepts",Laravel
+Introduction,"Data Science"
+"Intermediate Concepts","Data Science"
+Introduction,"Machine Learning"
+"Intermediate Concepts","Machine Learning"
+Introduction,"Deep Learning"
+"Intermediate Concepts","Deep Learning"
+Introduction,"Power BI"
+"Intermediate Concepts","Power BI"
+Introduction,Excel
+"Intermediate Concepts",Excel
+Introduction,Tableau
+"Intermediate Concepts",Tableau
+Introduction,AWS
+"Intermediate Concepts",AWS
+Introduction,Azure
+"Intermediate Concepts",Azure
+Introduction,DevOps
+"Intermediate Concepts",DevOps
+"Introduction - Course 1","Python Programming"
+"Fundamentals - Course 1","Python Programming"
+"Intermediate Concepts - Course 1","Python Programming"
+"Advanced Concepts - Course 1","Python Programming"
+"Projects & Assessment - Course 1","Python Programming"
+"Introduction - Course 2","Java Programming"
+"Fundamentals - Course 2","Java Programming"
+"Intermediate Concepts - Course 2","Java Programming"
+"Advanced Concepts - Course 2","Java Programming"
+"Projects & Assessment - Course 2","Java Programming"
+"Introduction - Course 3","C Programming"
+"Fundamentals - Course 3","C Programming"
+"Intermediate Concepts - Course 3","C Programming"
+"Advanced Concepts - Course 3","C Programming"
+"Projects & Assessment - Course 3","C Programming"
+"Introduction - Course 4","C++ Programming"
+"Fundamentals - Course 4","C++ Programming"
+"Intermediate Concepts - Course 4","C++ Programming"
+"Advanced Concepts - Course 4","C++ Programming"
+"Projects & Assessment - Course 4","C++ Programming"
+"Introduction - Course 5",MySQL
+"Fundamentals - Course 5",MySQL
+"Intermediate Concepts - Course 5",MySQL
+"Advanced Concepts - Course 5",MySQL
+"Projects & Assessment - Course 5",MySQL
+"Introduction - Course 6","HTML & CSS"
+"Fundamentals - Course 6","HTML & CSS"
+"Intermediate Concepts - Course 6","HTML & CSS"
+"Advanced Concepts - Course 6","HTML & CSS"
+"Projects & Assessment - Course 6","HTML & CSS"
+"Introduction - Course 7",JavaScript
+"Fundamentals - Course 7",JavaScript
+"Intermediate Concepts - Course 7",JavaScript
+"Advanced Concepts - Course 7",JavaScript
+"Projects & Assessment - Course 7",JavaScript
+"Introduction - Course 8","React JS"
+"Fundamentals - Course 8","React JS"
+"Intermediate Concepts - Course 8","React JS"
+"Advanced Concepts - Course 8","React JS"
+"Projects & Assessment - Course 8","React JS"
+"Introduction - Course 9","Node JS"
+"Fundamentals - Course 9","Node JS"
+"Intermediate Concepts - Course 9","Node JS"
+"Advanced Concepts - Course 9","Node JS"
+"Projects & Assessment - Course 9","Node JS"
+"Introduction - Course 10",PHP
+"Fundamentals - Course 10",PHP
+"Intermediate Concepts - Course 10",PHP
+"Advanced Concepts - Course 10",PHP
+"Projects & Assessment - Course 10",PHP
+"Introduction - Course 11",Laravel
+"Fundamentals - Course 11",Laravel
+"Intermediate Concepts - Course 11",Laravel
+"Advanced Concepts - Course 11",Laravel
+"Projects & Assessment - Course 11",Laravel
+"Introduction - Course 12","Data Science"
+"Fundamentals - Course 12","Data Science"
+"Intermediate Concepts - Course 12","Data Science"
+"Advanced Concepts - Course 12","Data Science"
+"Projects & Assessment - Course 12","Data Science"
+"Introduction - Course 13","Machine Learning"
+"Fundamentals - Course 13","Machine Learning"
+"Intermediate Concepts - Course 13","Machine Learning"
+"Advanced Concepts - Course 13","Machine Learning"
+"Projects & Assessment - Course 13","Machine Learning"
+"Introduction - Course 14","Deep Learning"
+"Fundamentals - Course 14","Deep Learning"
+"Intermediate Concepts - Course 14","Deep Learning"
+"Advanced Concepts - Course 14","Deep Learning"
+"Projects & Assessment - Course 14","Deep Learning"
+"Introduction - Course 15","Power BI"
+"Fundamentals - Course 15","Power BI"
+"Intermediate Concepts - Course 15","Power BI"
+"Advanced Concepts - Course 15","Power BI"
+"Projects & Assessment - Course 15","Power BI"
+"Introduction - Course 16",Excel
+"Fundamentals - Course 16",Excel
+"Intermediate Concepts - Course 16",Excel
+"Advanced Concepts - Course 16",Excel
+"Projects & Assessment - Course 16",Excel
+"Introduction - Course 17",Tableau
+"Fundamentals - Course 17",Tableau
+"Intermediate Concepts - Course 17",Tableau
+"Advanced Concepts - Course 17",Tableau
+"Projects & Assessment - Course 17",Tableau
+"Introduction - Course 18",AWS
+"Fundamentals - Course 18",AWS
+"Intermediate Concepts - Course 18",AWS
+"Advanced Concepts - Course 18",AWS
+"Projects & Assessment - Course 18",AWS
+"Introduction - Course 19",Azure
+"Fundamentals - Course 19",Azure
+"Intermediate Concepts - Course 19",Azure
+"Advanced Concepts - Course 19",Azure
+"Projects & Assessment - Course 19",Azure
+"Introduction - Course 20",DevOps
+"Fundamentals - Course 20",DevOps
+"Intermediate Concepts - Course 20",DevOps
+"Advanced Concepts - Course 20",DevOps
+"Projects & Assessment - Course 20",DevOps
+"Introduction - Course 21","Python Programming"
+"Fundamentals - Course 21","Python Programming"
+"Intermediate Concepts - Course 21","Python Programming"
+"Advanced Concepts - Course 21","Python Programming"
+"Projects & Assessment - Course 21","Python Programming"
+"Introduction - Course 22","Advanced Python"
+"Fundamentals - Course 22","Advanced Python"
+"Intermediate Concepts - Course 22","Advanced Python"
+"Advanced Concepts - Course 22","Advanced Python"
+"Projects & Assessment - Course 22","Advanced Python"
+"Introduction - Course 23","SQL for Beginners"
+"Fundamentals - Course 23","SQL for Beginners"
+"Intermediate Concepts - Course 23","SQL for Beginners"
+"Advanced Concepts - Course 23","SQL for Beginners"
+"Projects & Assessment - Course 23","SQL for Beginners"
+"Introduction - Course 24","Advanced SQL"
+"Fundamentals - Course 24","Advanced SQL"
+"Intermediate Concepts - Course 24","Advanced SQL"
+"Advanced Concepts - Course 24","Advanced SQL"
+"Projects & Assessment - Course 24","Advanced SQL"
+"Introduction - Course 25","Database Design"
+"Fundamentals - Course 25","Database Design"
+"Intermediate Concepts - Course 25","Database Design"
+"Advanced Concepts - Course 25","Database Design"
+"Projects & Assessment - Course 25","Database Design"
+"Introduction - Course 26","MySQL Mastery"
+"Fundamentals - Course 26","MySQL Mastery"
+"Intermediate Concepts - Course 26","MySQL Mastery"
+"Advanced Concepts - Course 26","MySQL Mastery"
+"Projects & Assessment - Course 26","MySQL Mastery"
+"Introduction - Course 27","PostgreSQL Essentials"
+"Fundamentals - Course 27","PostgreSQL Essentials"
+"Intermediate Concepts - Course 27","PostgreSQL Essentials"
+"Advanced Concepts - Course 27","PostgreSQL Essentials"
+"Projects & Assessment - Course 27","PostgreSQL Essentials"
+"Introduction - Course 28","Data Analytics with Excel"
+"Fundamentals - Course 28","Data Analytics with Excel"
+"Intermediate Concepts - Course 28","Data Analytics with Excel"
+"Advanced Concepts - Course 28","Data Analytics with Excel"
+"Projects & Assessment - Course 28","Data Analytics with Excel"
+"Introduction - Course 29","Advanced Excel"
+"Fundamentals - Course 29","Advanced Excel"
+"Intermediate Concepts - Course 29","Advanced Excel"
+"Advanced Concepts - Course 29","Advanced Excel"
+"Projects & Assessment - Course 29","Advanced Excel"
+"Introduction - Course 30","Power BI"
+"Fundamentals - Course 30","Power BI"
+"Intermediate Concepts - Course 30","Power BI"
+"Advanced Concepts - Course 30","Power BI"
+"Projects & Assessment - Course 30","Power BI"
+"Introduction - Course 31",Tableau
+"Fundamentals - Course 31",Tableau
+"Intermediate Concepts - Course 31",Tableau
+"Advanced Concepts - Course 31",Tableau
+"Projects & Assessment - Course 31",Tableau
+"Introduction - Course 32","Statistics for Data Science"
+"Fundamentals - Course 32","Statistics for Data Science"
+"Intermediate Concepts - Course 32","Statistics for Data Science"
+"Advanced Concepts - Course 32","Statistics for Data Science"
+"Projects & Assessment - Course 32","Statistics for Data Science"
+"Introduction - Course 33","Probability Basics"
+"Fundamentals - Course 33","Probability Basics"
+"Intermediate Concepts - Course 33","Probability Basics"
+"Advanced Concepts - Course 33","Probability Basics"
+"Projects & Assessment - Course 33","Probability Basics"
+"Introduction - Course 34","Machine Learning"
+"Fundamentals - Course 34","Machine Learning"
+"Intermediate Concepts - Course 34","Machine Learning"
+"Advanced Concepts - Course 34","Machine Learning"
+"Projects & Assessment - Course 34","Machine Learning"
+"Introduction - Course 35","Advanced Machine Learning"
+"Fundamentals - Course 35","Advanced Machine Learning"
+"Intermediate Concepts - Course 35","Advanced Machine Learning"
+"Advanced Concepts - Course 35","Advanced Machine Learning"
+"Projects & Assessment - Course 35","Advanced Machine Learning"
+"Introduction - Course 36","Deep Learning"
+"Fundamentals - Course 36","Deep Learning"
+"Intermediate Concepts - Course 36","Deep Learning"
+"Advanced Concepts - Course 36","Deep Learning"
+"Projects & Assessment - Course 36","Deep Learning"
+"Introduction - Course 37","Artificial Intelligence"
+"Fundamentals - Course 37","Artificial Intelligence"
+"Intermediate Concepts - Course 37","Artificial Intelligence"
+"Advanced Concepts - Course 37","Artificial Intelligence"
+"Projects & Assessment - Course 37","Artificial Intelligence"
+"Introduction - Course 38","Generative AI"
+"Fundamentals - Course 38","Generative AI"
+"Intermediate Concepts - Course 38","Generative AI"
+"Advanced Concepts - Course 38","Generative AI"
+"Projects & Assessment - Course 38","Generative AI"
+"Introduction - Course 39","Prompt Engineering"
+"Fundamentals - Course 39","Prompt Engineering"
+"Intermediate Concepts - Course 39","Prompt Engineering"
+"Advanced Concepts - Course 39","Prompt Engineering"
+"Projects & Assessment - Course 39","Prompt Engineering"
+"Introduction - Course 40","NLP Fundamentals"
+"Fundamentals - Course 40","NLP Fundamentals"
+"Intermediate Concepts - Course 40","NLP Fundamentals"
+"Advanced Concepts - Course 40","NLP Fundamentals"
+"Projects & Assessment - Course 40","NLP Fundamentals"
+"Introduction - Course 41","Computer Vision"
+"Fundamentals - Course 41","Computer Vision"
+"Intermediate Concepts - Course 41","Computer Vision"
+"Advanced Concepts - Course 41","Computer Vision"
+"Projects & Assessment - Course 41","Computer Vision"
+"Introduction - Course 42","Data Mining"
+"Fundamentals - Course 42","Data Mining"
+"Intermediate Concepts - Course 42","Data Mining"
+"Advanced Concepts - Course 42","Data Mining"
+"Projects & Assessment - Course 42","Data Mining"
+"Introduction - Course 43","Big Data"
+"Fundamentals - Course 43","Big Data"
+"Intermediate Concepts - Course 43","Big Data"
+"Advanced Concepts - Course 43","Big Data"
+"Projects & Assessment - Course 43","Big Data"
+"Introduction - Course 44","Apache Spark"
+"Fundamentals - Course 44","Apache Spark"
+"Intermediate Concepts - Course 44","Apache Spark"
+"Advanced Concepts - Course 44","Apache Spark"
+"Projects & Assessment - Course 44","Apache Spark"
+"Introduction - Course 45",Hadoop
+"Fundamentals - Course 45",Hadoop
+"Intermediate Concepts - Course 45",Hadoop
+"Advanced Concepts - Course 45",Hadoop
+"Projects & Assessment - Course 45",Hadoop
+"Introduction - Course 46","Data Visualization"
+"Fundamentals - Course 46","Data Visualization"
+"Intermediate Concepts - Course 46","Data Visualization"
+"Advanced Concepts - Course 46","Data Visualization"
+"Projects & Assessment - Course 46","Data Visualization"
+"Introduction - Course 47","Business Analytics"
+"Fundamentals - Course 47","Business Analytics"
+"Intermediate Concepts - Course 47","Business Analytics"
+"Advanced Concepts - Course 47","Business Analytics"
+"Projects & Assessment - Course 47","Business Analytics"
+"Introduction - Course 48","Cloud Computing"
+"Fundamentals - Course 48","Cloud Computing"
+"Intermediate Concepts - Course 48","Cloud Computing"
+"Advanced Concepts - Course 48","Cloud Computing"
+"Projects & Assessment - Course 48","Cloud Computing"
+"Introduction - Course 49","AWS Cloud"
+"Fundamentals - Course 49","AWS Cloud"
+"Intermediate Concepts - Course 49","AWS Cloud"
+"Advanced Concepts - Course 49","AWS Cloud"
+"Projects & Assessment - Course 49","AWS Cloud"
+"Introduction - Course 50","Azure Fundamentals"
+"Fundamentals - Course 50","Azure Fundamentals"
+"Intermediate Concepts - Course 50","Azure Fundamentals"
+"Advanced Concepts - Course 50","Azure Fundamentals"
+"Projects & Assessment - Course 50","Azure Fundamentals"
+"Introduction - Course 51","Google Cloud"
+"Fundamentals - Course 51","Google Cloud"
+"Intermediate Concepts - Course 51","Google Cloud"
+"Advanced Concepts - Course 51","Google Cloud"
+"Projects & Assessment - Course 51","Google Cloud"
+"Introduction - Course 52",Docker
+"Fundamentals - Course 52",Docker
+"Intermediate Concepts - Course 52",Docker
+"Advanced Concepts - Course 52",Docker
+"Projects & Assessment - Course 52",Docker
+"Introduction - Course 53",Kubernetes
+"Fundamentals - Course 53",Kubernetes
+"Intermediate Concepts - Course 53",Kubernetes
+"Advanced Concepts - Course 53",Kubernetes
+"Projects & Assessment - Course 53",Kubernetes
+"Introduction - Course 54","Git & GitHub"
+"Fundamentals - Course 54","Git & GitHub"
+"Intermediate Concepts - Course 54","Git & GitHub"
+"Advanced Concepts - Course 54","Git & GitHub"
+"Projects & Assessment - Course 54","Git & GitHub"
+"Introduction - Course 55","Linux Administration"
+"Fundamentals - Course 55","Linux Administration"
+"Intermediate Concepts - Course 55","Linux Administration"
+"Advanced Concepts - Course 55","Linux Administration"
+"Projects & Assessment - Course 55","Linux Administration"
+"Introduction - Course 56","Cyber Security"
+"Fundamentals - Course 56","Cyber Security"
+"Intermediate Concepts - Course 56","Cyber Security"
+"Advanced Concepts - Course 56","Cyber Security"
+"Projects & Assessment - Course 56","Cyber Security"
+"Introduction - Course 57","Ethical Hacking"
+"Fundamentals - Course 57","Ethical Hacking"
+"Intermediate Concepts - Course 57","Ethical Hacking"
+"Advanced Concepts - Course 57","Ethical Hacking"
+"Projects & Assessment - Course 57","Ethical Hacking"
+"Introduction - Course 58","Network Security"
+"Fundamentals - Course 58","Network Security"
+"Intermediate Concepts - Course 58","Network Security"
+"Advanced Concepts - Course 58","Network Security"
+"Projects & Assessment - Course 58","Network Security"
+"Introduction - Course 59","Java Programming"
+"Fundamentals - Course 59","Java Programming"
+"Intermediate Concepts - Course 59","Java Programming"
+"Advanced Concepts - Course 59","Java Programming"
+"Projects & Assessment - Course 59","Java Programming"
+"Introduction - Course 60","Advanced Java"
+"Fundamentals - Course 60","Advanced Java"
+"Intermediate Concepts - Course 60","Advanced Java"
+"Advanced Concepts - Course 60","Advanced Java"
+"Projects & Assessment - Course 60","Advanced Java"
+"Introduction - Course 61","Spring Boot"
+"Fundamentals - Course 61","Spring Boot"
+"Intermediate Concepts - Course 61","Spring Boot"
+"Advanced Concepts - Course 61","Spring Boot"
+"Projects & Assessment - Course 61","Spring Boot"
+"Introduction - Course 62","C Programming"
+"Fundamentals - Course 62","C Programming"
+"Intermediate Concepts - Course 62","C Programming"
+"Advanced Concepts - Course 62","C Programming"
+"Projects & Assessment - Course 62","C Programming"
+"Introduction - Course 63","C++ Programming"
+"Fundamentals - Course 63","C++ Programming"
+"Intermediate Concepts - Course 63","C++ Programming"
+"Advanced Concepts - Course 63","C++ Programming"
+"Projects & Assessment - Course 63","C++ Programming"
+"Introduction - Course 64","Data Structures"
+"Fundamentals - Course 64","Data Structures"
+"Intermediate Concepts - Course 64","Data Structures"
+"Advanced Concepts - Course 64","Data Structures"
+"Projects & Assessment - Course 64","Data Structures"
+"Introduction - Course 65",Algorithms
+"Fundamentals - Course 65",Algorithms
+"Intermediate Concepts - Course 65",Algorithms
+"Advanced Concepts - Course 65",Algorithms
+"Projects & Assessment - Course 65",Algorithms
+"Introduction - Course 66","MERN Stack"
+"Fundamentals - Course 66","MERN Stack"
+"Intermediate Concepts - Course 66","MERN Stack"
+"Advanced Concepts - Course 66","MERN Stack"
+"Projects & Assessment - Course 66","MERN Stack"
+"Introduction - Course 67","React JS"
+"Fundamentals - Course 67","React JS"
+"Intermediate Concepts - Course 67","React JS"
+"Advanced Concepts - Course 67","React JS"
+"Projects & Assessment - Course 67","React JS"
+"Introduction - Course 68",Node.js
+"Fundamentals - Course 68",Node.js
+"Intermediate Concepts - Course 68",Node.js
+"Advanced Concepts - Course 68",Node.js
+"Projects & Assessment - Course 68",Node.js
+"Introduction - Course 69",Express.js
+"Fundamentals - Course 69",Express.js
+"Intermediate Concepts - Course 69",Express.js
+"Advanced Concepts - Course 69",Express.js
+"Projects & Assessment - Course 69",Express.js
+"Introduction - Course 70",MongoDB
+"Fundamentals - Course 70",MongoDB
+"Intermediate Concepts - Course 70",MongoDB
+"Advanced Concepts - Course 70",MongoDB
+"Projects & Assessment - Course 70",MongoDB
+"Introduction - Course 71","REST API Development"
+"Fundamentals - Course 71","REST API Development"
+"Intermediate Concepts - Course 71","REST API Development"
+"Advanced Concepts - Course 71","REST API Development"
+"Projects & Assessment - Course 71","REST API Development"
+"Introduction - Course 72",PHP
+"Fundamentals - Course 72",PHP
+"Intermediate Concepts - Course 72",PHP
+"Advanced Concepts - Course 72",PHP
+"Projects & Assessment - Course 72",PHP
+"Introduction - Course 73",Laravel
+"Fundamentals - Course 73",Laravel
+"Intermediate Concepts - Course 73",Laravel
+"Advanced Concepts - Course 73",Laravel
+"Projects & Assessment - Course 73",Laravel
+"Introduction - Course 74",HTML5
+"Fundamentals - Course 74",HTML5
+"Intermediate Concepts - Course 74",HTML5
+"Advanced Concepts - Course 74",HTML5
+"Projects & Assessment - Course 74",HTML5
+"Introduction - Course 75",CSS3
+"Fundamentals - Course 75",CSS3
+"Intermediate Concepts - Course 75",CSS3
+"Advanced Concepts - Course 75",CSS3
+"Projects & Assessment - Course 75",CSS3
+"Introduction - Course 76",JavaScript
+"Fundamentals - Course 76",JavaScript
+"Intermediate Concepts - Course 76",JavaScript
+"Advanced Concepts - Course 76",JavaScript
+"Projects & Assessment - Course 76",JavaScript
+"Introduction - Course 77",TypeScript
+"Fundamentals - Course 77",TypeScript
+"Intermediate Concepts - Course 77",TypeScript
+"Advanced Concepts - Course 77",TypeScript
+"Projects & Assessment - Course 77",TypeScript
+"Introduction - Course 78",Bootstrap
+"Fundamentals - Course 78",Bootstrap
+"Intermediate Concepts - Course 78",Bootstrap
+"Advanced Concepts - Course 78",Bootstrap
+"Projects & Assessment - Course 78",Bootstrap
+"Introduction - Course 79","Tailwind CSS"
+"Fundamentals - Course 79","Tailwind CSS"
+"Intermediate Concepts - Course 79","Tailwind CSS"
+"Advanced Concepts - Course 79","Tailwind CSS"
+"Projects & Assessment - Course 79","Tailwind CSS"
+"Introduction - Course 80","UI/UX Design"
+"Fundamentals - Course 80","UI/UX Design"
+"Intermediate Concepts - Course 80","UI/UX Design"
+"Advanced Concepts - Course 80","UI/UX Design"
+"Projects & Assessment - Course 80","UI/UX Design"
+"Introduction - Course 81",Figma
+"Fundamentals - Course 81",Figma
+"Intermediate Concepts - Course 81",Figma
+"Advanced Concepts - Course 81",Figma
+"Projects & Assessment - Course 81",Figma
+"Introduction - Course 82","Android Development"
+"Fundamentals - Course 82","Android Development"
+"Intermediate Concepts - Course 82","Android Development"
+"Advanced Concepts - Course 82","Android Development"
+"Projects & Assessment - Course 82","Android Development"
+"Introduction - Course 83",Flutter
+"Fundamentals - Course 83",Flutter
+"Intermediate Concepts - Course 83",Flutter
+"Advanced Concepts - Course 83",Flutter
+"Projects & Assessment - Course 83",Flutter
+"Introduction - Course 84","React Native"
+"Fundamentals - Course 84","React Native"
+"Intermediate Concepts - Course 84","React Native"
+"Advanced Concepts - Course 84","React Native"
+"Projects & Assessment - Course 84","React Native"
+"Introduction - Course 85","IoT Fundamentals"
+"Fundamentals - Course 85","IoT Fundamentals"
+"Intermediate Concepts - Course 85","IoT Fundamentals"
+"Advanced Concepts - Course 85","IoT Fundamentals"
+"Projects & Assessment - Course 85","IoT Fundamentals"
+"Introduction - Course 86","Embedded Systems"
+"Fundamentals - Course 86","Embedded Systems"
+"Intermediate Concepts - Course 86","Embedded Systems"
+"Advanced Concepts - Course 86","Embedded Systems"
+"Projects & Assessment - Course 86","Embedded Systems"
+"Introduction - Course 87","R Programming"
+"Fundamentals - Course 87","R Programming"
+"Intermediate Concepts - Course 87","R Programming"
+"Advanced Concepts - Course 87","R Programming"
+"Projects & Assessment - Course 87","R Programming"
+"Introduction - Course 88",MATLAB
+"Fundamentals - Course 88",MATLAB
+"Intermediate Concepts - Course 88",MATLAB
+"Advanced Concepts - Course 88",MATLAB
+"Projects & Assessment - Course 88",MATLAB
+"Introduction - Course 89",TensorFlow
+"Fundamentals - Course 89",TensorFlow
+"Intermediate Concepts - Course 89",TensorFlow
+"Advanced Concepts - Course 89",TensorFlow
+"Projects & Assessment - Course 89",TensorFlow
+"Introduction - Course 90",PyTorch
+"Fundamentals - Course 90",PyTorch
+"Intermediate Concepts - Course 90",PyTorch
+"Advanced Concepts - Course 90",PyTorch
+"Projects & Assessment - Course 90",PyTorch
+"Introduction - Course 91",Scikit-learn
+"Fundamentals - Course 91",Scikit-learn
+"Intermediate Concepts - Course 91",Scikit-learn
+"Advanced Concepts - Course 91",Scikit-learn
+"Projects & Assessment - Course 91",Scikit-learn
+"Introduction - Course 92",OpenCV
+"Fundamentals - Course 92",OpenCV
+"Intermediate Concepts - Course 92",OpenCV
+"Advanced Concepts - Course 92",OpenCV
+"Projects & Assessment - Course 92",OpenCV
+"Introduction - Course 93",LangChain
+"Fundamentals - Course 93",LangChain
+"Intermediate Concepts - Course 93",LangChain
+"Advanced Concepts - Course 93",LangChain
+"Projects & Assessment - Course 93",LangChain
+"Introduction - Course 94",LlamaIndex
+"Fundamentals - Course 94",LlamaIndex
+"Intermediate Concepts - Course 94",LlamaIndex
+"Advanced Concepts - Course 94",LlamaIndex
+"Projects & Assessment - Course 94",LlamaIndex
+"Introduction - Course 95","AI Agents"
+"Fundamentals - Course 95","AI Agents"
+"Intermediate Concepts - Course 95","AI Agents"
+"Advanced Concepts - Course 95","AI Agents"
+"Projects & Assessment - Course 95","AI Agents"
+"Introduction - Course 96","Software Testing"
+"Fundamentals - Course 96","Software Testing"
+"Intermediate Concepts - Course 96","Software Testing"
+"Advanced Concepts - Course 96","Software Testing"
+"Projects & Assessment - Course 96","Software Testing"
+"Introduction - Course 97","Manual Testing"
+"Fundamentals - Course 97","Manual Testing"
+"Intermediate Concepts - Course 97","Manual Testing"
+"Advanced Concepts - Course 97","Manual Testing"
+"Projects & Assessment - Course 97","Manual Testing"
+"Introduction - Course 98",Selenium
+"Fundamentals - Course 98",Selenium
+"Intermediate Concepts - Course 98",Selenium
+"Advanced Concepts - Course 98",Selenium
+"Projects & Assessment - Course 98",Selenium
+"Introduction - Course 99",Jenkins
+"Fundamentals - Course 99",Jenkins
+"Intermediate Concepts - Course 99",Jenkins
+"Advanced Concepts - Course 99",Jenkins
+"Projects & Assessment - Course 99",Jenkins
+"Introduction - Course 100",DevOps
+"Fundamentals - Course 100",DevOps
+"Intermediate Concepts - Course 100",DevOps
+"Advanced Concepts - Course 100",DevOps
+"Projects & Assessment - Course 100",DevOps

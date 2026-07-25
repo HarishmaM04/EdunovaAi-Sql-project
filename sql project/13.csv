@@ -1,0 +1,120 @@
+course_id,instructor_id,course_title,level,price
+1,2,"Python Programming",Beginner,999.00
+2,2,"Java Programming",Intermediate,1099.00
+3,2,"C Programming",Advanced,1199.00
+4,2,"C++ Programming",Beginner,1299.00
+5,2,MySQL,Intermediate,1399.00
+6,2,"HTML & CSS",Advanced,1499.00
+7,2,JavaScript,Beginner,1599.00
+8,2,"React JS",Intermediate,1699.00
+9,2,"Node JS",Advanced,1799.00
+10,2,PHP,Beginner,1899.00
+11,2,Laravel,Intermediate,1999.00
+12,2,"Data Science",Advanced,2099.00
+13,2,"Machine Learning",Beginner,2199.00
+14,2,"Deep Learning",Intermediate,2299.00
+15,2,"Power BI",Advanced,2399.00
+16,2,Excel,Beginner,2499.00
+17,2,Tableau,Intermediate,2599.00
+18,2,AWS,Advanced,2699.00
+19,2,Azure,Beginner,2799.00
+20,2,DevOps,Intermediate,2899.00
+21,2,"Python Programming",Intermediate,2999.00
+22,3,"Advanced Python",Advanced,1999.00
+23,4,"SQL for Beginners",Beginner,4999.00
+24,5,"Advanced SQL",Beginner,1999.00
+25,6,"Database Design",Beginner,2999.00
+26,7,"MySQL Mastery",Intermediate,4999.00
+27,8,"PostgreSQL Essentials",Intermediate,2999.00
+28,9,"Data Analytics with Excel",Intermediate,7999.00
+29,10,"Advanced Excel",Beginner,1999.00
+30,11,"Power BI",Intermediate,2999.00
+31,12,Tableau,Advanced,2999.00
+32,13,"Statistics for Data Science",Advanced,1999.00
+33,14,"Probability Basics",Intermediate,9999.00
+34,15,"Machine Learning",Advanced,4999.00
+35,16,"Advanced Machine Learning",Advanced,3999.00
+36,17,"Deep Learning",Beginner,1999.00
+37,18,"Artificial Intelligence",Advanced,1999.00
+38,19,"Generative AI",Intermediate,5999.00
+39,20,"Prompt Engineering",Beginner,1999.00
+40,21,"NLP Fundamentals",Intermediate,5999.00
+41,22,"Computer Vision",Advanced,4999.00
+42,23,"Data Mining",Intermediate,5999.00
+43,24,"Big Data",Beginner,5999.00
+44,25,"Apache Spark",Intermediate,7999.00
+45,26,Hadoop,Intermediate,2999.00
+46,27,"Data Visualization",Intermediate,5999.00
+47,28,"Business Analytics",Advanced,7999.00
+48,29,"Cloud Computing",Intermediate,4999.00
+49,30,"AWS Cloud",Beginner,9999.00
+50,31,"Azure Fundamentals",Beginner,1999.00
+51,32,"Google Cloud",Beginner,9999.00
+52,33,Docker,Intermediate,1999.00
+53,34,Kubernetes,Intermediate,5999.00
+54,35,"Git & GitHub",Beginner,2999.00
+55,36,"Linux Administration",Advanced,5999.00
+56,37,"Cyber Security",Advanced,2999.00
+57,38,"Ethical Hacking",Advanced,9999.00
+58,39,"Network Security",Advanced,5999.00
+59,40,"Java Programming",Advanced,2999.00
+60,41,"Advanced Java",Intermediate,1999.00
+61,42,"Spring Boot",Advanced,3999.00
+62,43,"C Programming",Intermediate,2999.00
+63,44,"C++ Programming",Beginner,1999.00
+64,45,"Data Structures",Beginner,7999.00
+65,46,Algorithms,Intermediate,5999.00
+66,47,"MERN Stack",Beginner,5999.00
+67,48,"React JS",Beginner,2999.00
+68,49,Node.js,Advanced,9999.00
+69,50,Express.js,Intermediate,2999.00
+70,51,MongoDB,Advanced,2999.00
+71,2,"REST API Development",Advanced,7999.00
+72,3,PHP,Intermediate,1999.00
+73,4,Laravel,Beginner,2999.00
+74,5,HTML5,Beginner,9999.00
+75,6,CSS3,Intermediate,5999.00
+76,7,JavaScript,Advanced,1999.00
+77,8,TypeScript,Intermediate,5999.00
+78,9,Bootstrap,Intermediate,7999.00
+79,10,"Tailwind CSS",Intermediate,7999.00
+80,11,"UI/UX Design",Beginner,1999.00
+81,12,Figma,Advanced,1999.00
+82,13,"Android Development",Intermediate,9999.00
+83,14,Flutter,Advanced,7999.00
+84,15,"React Native",Intermediate,2999.00
+85,16,"IoT Fundamentals",Beginner,5999.00
+86,17,"Embedded Systems",Intermediate,1999.00
+87,18,"R Programming",Advanced,2999.00
+88,19,MATLAB,Beginner,5999.00
+89,20,TensorFlow,Beginner,3999.00
+90,21,PyTorch,Advanced,1999.00
+91,22,Scikit-learn,Advanced,4999.00
+92,23,OpenCV,Advanced,4999.00
+93,24,LangChain,Intermediate,5999.00
+94,25,LlamaIndex,Advanced,7999.00
+95,26,"AI Agents",Beginner,4999.00
+96,27,"Software Testing",Advanced,4999.00
+97,28,"Manual Testing",Intermediate,3999.00
+98,29,Selenium,Intermediate,3999.00
+99,30,Jenkins,Intermediate,9999.00
+100,31,DevOps,Intermediate,3999.00
+101,32,"CI/CD Pipelines",Beginner,5999.00
+102,33,"Agile Scrum",Beginner,4999.00
+103,34,"Project Management",Beginner,5999.00
+104,35,"Business Intelligence",Intermediate,9999.00
+105,36,"Financial Analytics",Beginner,4999.00
+106,37,"Healthcare Analytics",Intermediate,2999.00
+107,38,"HR Analytics",Intermediate,7999.00
+108,39,"Marketing Analytics",Intermediate,5999.00
+109,40,"Supply Chain Analytics",Advanced,2999.00
+110,41,Blockchain,Beginner,5999.00
+111,42,"Web Development",Beginner,7999.00
+112,43,"Full Stack Development",Beginner,4999.00
+113,44,"Object Oriented Programming",Advanced,1999.00
+114,45,"Operating Systems",Beginner,9999.00
+115,46,"Computer Networks",Advanced,1999.00
+116,47,"Discrete Mathematics",Beginner,2999.00
+117,48,"Linear Algebra",Advanced,7999.00
+118,49,"Calculus for AI",Beginner,2999.00
+119,50,"Interview Preparation",Advanced,9999.00

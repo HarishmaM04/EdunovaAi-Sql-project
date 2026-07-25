@@ -1,0 +1,120 @@
+course_title,Instructor
+"Python Programming","John Instructor"
+"Java Programming","John Instructor"
+"C Programming","John Instructor"
+"C++ Programming","John Instructor"
+MySQL,"John Instructor"
+"HTML & CSS","John Instructor"
+JavaScript,"John Instructor"
+"React JS","John Instructor"
+"Node JS","John Instructor"
+PHP,"John Instructor"
+Laravel,"John Instructor"
+"Data Science","John Instructor"
+"Machine Learning","John Instructor"
+"Deep Learning","John Instructor"
+"Power BI","John Instructor"
+Excel,"John Instructor"
+Tableau,"John Instructor"
+AWS,"John Instructor"
+Azure,"John Instructor"
+DevOps,"John Instructor"
+"Python Programming","John Instructor"
+"Advanced Python",Student1
+"SQL for Beginners",Student2
+"Advanced SQL",Student3
+"Database Design",Student4
+"MySQL Mastery",Student5
+"PostgreSQL Essentials",Student6
+"Data Analytics with Excel",Student7
+"Advanced Excel",Student8
+"Power BI",Student9
+Tableau,Student10
+"Statistics for Data Science",Student11
+"Probability Basics",Student12
+"Machine Learning",Student13
+"Advanced Machine Learning",Student14
+"Deep Learning",Student15
+"Artificial Intelligence",Student16
+"Generative AI",Student17
+"Prompt Engineering",Student18
+"NLP Fundamentals",Student19
+"Computer Vision",Student20
+"Data Mining",Student21
+"Big Data",Student22
+"Apache Spark",Student23
+Hadoop,"Admin User"
+"Data Visualization","Aryan Maharaj"
+"Business Analytics","Udant Dewan"
+"Cloud Computing","Gagan Sami"
+"AWS Cloud","Ayushman Chander"
+"Azure Fundamentals","Viraj Tiwari"
+"Google Cloud","Rushil Saini"
+Docker,"Saumya Mall"
+Kubernetes,"Nathaniel Sami"
+"Git & GitHub","Arunima Dugal"
+"Linux Administration","Gayathri Chaudry"
+"Cyber Security","Lajita Chatterjee"
+"Ethical Hacking","Hemangini Lalla"
+"Network Security","Tripti Yadav"
+"Java Programming","Kritika Brar"
+"Advanced Java","Janaki Handa"
+"Spring Boot","Chakradev Kari"
+"C Programming","Fariq Kaul"
+"C++ Programming","Lajita Mall"
+"Data Structures","Janya Gaba"
+Algorithms,"Isha Kadakia"
+"MERN Stack","Ekbal Garg"
+"React JS","Nihal Shere"
+Node.js,"Anamika Kanda"
+Express.js,"Daksh Karnik"
+MongoDB,"Diya Rattan"
+"REST API Development","John Instructor"
+PHP,Student1
+Laravel,Student2
+HTML5,Student3
+CSS3,Student4
+JavaScript,Student5
+TypeScript,Student6
+Bootstrap,Student7
+"Tailwind CSS",Student8
+"UI/UX Design",Student9
+Figma,Student10
+"Android Development",Student11
+Flutter,Student12
+"React Native",Student13
+"IoT Fundamentals",Student14
+"Embedded Systems",Student15
+"R Programming",Student16
+MATLAB,Student17
+TensorFlow,Student18
+PyTorch,Student19
+Scikit-learn,Student20
+OpenCV,Student21
+LangChain,Student22
+LlamaIndex,Student23
+"AI Agents","Admin User"
+"Software Testing","Aryan Maharaj"
+"Manual Testing","Udant Dewan"
+Selenium,"Gagan Sami"
+Jenkins,"Ayushman Chander"
+DevOps,"Viraj Tiwari"
+"CI/CD Pipelines","Rushil Saini"
+"Agile Scrum","Saumya Mall"
+"Project Management","Nathaniel Sami"
+"Business Intelligence","Arunima Dugal"
+"Financial Analytics","Gayathri Chaudry"
+"Healthcare Analytics","Lajita Chatterjee"
+"HR Analytics","Hemangini Lalla"
+"Marketing Analytics","Tripti Yadav"
+"Supply Chain Analytics","Kritika Brar"
+Blockchain,"Janaki Handa"
+"Web Development","Chakradev Kari"
+"Full Stack Development","Fariq Kaul"
+"Object Oriented Programming","Lajita Mall"
+"Operating Systems","Janya Gaba"
+"Computer Networks","Isha Kadakia"
+"Discrete Mathematics","Ekbal Garg"
+"Linear Algebra","Nihal Shere"
+"Calculus for AI","Anamika Kanda"
+"Interview Preparation","Daksh Karnik"

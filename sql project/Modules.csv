@@ -1,0 +1,501 @@
+course_id,module_title,module_order
+1,Introduction - Course 1,1
+1,Fundamentals - Course 1,2
+1,Intermediate Concepts - Course 1,3
+1,Advanced Concepts - Course 1,4
+1,Projects & Assessment - Course 1,5
+2,Introduction - Course 2,1
+2,Fundamentals - Course 2,2
+2,Intermediate Concepts - Course 2,3
+2,Advanced Concepts - Course 2,4
+2,Projects & Assessment - Course 2,5
+3,Introduction - Course 3,1
+3,Fundamentals - Course 3,2
+3,Intermediate Concepts - Course 3,3
+3,Advanced Concepts - Course 3,4
+3,Projects & Assessment - Course 3,5
+4,Introduction - Course 4,1
+4,Fundamentals - Course 4,2
+4,Intermediate Concepts - Course 4,3
+4,Advanced Concepts - Course 4,4
+4,Projects & Assessment - Course 4,5
+5,Introduction - Course 5,1
+5,Fundamentals - Course 5,2
+5,Intermediate Concepts - Course 5,3
+5,Advanced Concepts - Course 5,4
+5,Projects & Assessment - Course 5,5
+6,Introduction - Course 6,1
+6,Fundamentals - Course 6,2
+6,Intermediate Concepts - Course 6,3
+6,Advanced Concepts - Course 6,4
+6,Projects & Assessment - Course 6,5
+7,Introduction - Course 7,1
+7,Fundamentals - Course 7,2
+7,Intermediate Concepts - Course 7,3
+7,Advanced Concepts - Course 7,4
+7,Projects & Assessment - Course 7,5
+8,Introduction - Course 8,1
+8,Fundamentals - Course 8,2
+8,Intermediate Concepts - Course 8,3
+8,Advanced Concepts - Course 8,4
+8,Projects & Assessment - Course 8,5
+9,Introduction - Course 9,1
+9,Fundamentals - Course 9,2
+9,Intermediate Concepts - Course 9,3
+9,Advanced Concepts - Course 9,4
+9,Projects & Assessment - Course 9,5
+10,Introduction - Course 10,1
+10,Fundamentals - Course 10,2
+10,Intermediate Concepts - Course 10,3
+10,Advanced Concepts - Course 10,4
+10,Projects & Assessment - Course 10,5
+11,Introduction - Course 11,1
+11,Fundamentals - Course 11,2
+11,Intermediate Concepts - Course 11,3
+11,Advanced Concepts - Course 11,4
+11,Projects & Assessment - Course 11,5
+12,Introduction - Course 12,1
+12,Fundamentals - Course 12,2
+12,Intermediate Concepts - Course 12,3
+12,Advanced Concepts - Course 12,4
+12,Projects & Assessment - Course 12,5
+13,Introduction - Course 13,1
+13,Fundamentals - Course 13,2
+13,Intermediate Concepts - Course 13,3
+13,Advanced Concepts - Course 13,4
+13,Projects & Assessment - Course 13,5
+14,Introduction - Course 14,1
+14,Fundamentals - Course 14,2
+14,Intermediate Concepts - Course 14,3
+14,Advanced Concepts - Course 14,4
+14,Projects & Assessment - Course 14,5
+15,Introduction - Course 15,1
+15,Fundamentals - Course 15,2
+15,Intermediate Concepts - Course 15,3
+15,Advanced Concepts - Course 15,4
+15,Projects & Assessment - Course 15,5
+16,Introduction - Course 16,1
+16,Fundamentals - Course 16,2
+16,Intermediate Concepts - Course 16,3
+16,Advanced Concepts - Course 16,4
+16,Projects & Assessment - Course 16,5
+17,Introduction - Course 17,1
+17,Fundamentals - Course 17,2
+17,Intermediate Concepts - Course 17,3
+17,Advanced Concepts - Course 17,4
+17,Projects & Assessment - Course 17,5
+18,Introduction - Course 18,1
+18,Fundamentals - Course 18,2
+18,Intermediate Concepts - Course 18,3
+18,Advanced Concepts - Course 18,4
+18,Projects & Assessment - Course 18,5
+19,Introduction - Course 19,1
+19,Fundamentals - Course 19,2
+19,Intermediate Concepts - Course 19,3
+19,Advanced Concepts - Course 19,4
+19,Projects & Assessment - Course 19,5
+20,Introduction - Course 20,1
+20,Fundamentals - Course 20,2
+20,Intermediate Concepts - Course 20,3
+20,Advanced Concepts - Course 20,4
+20,Projects & Assessment - Course 20,5
+21,Introduction - Course 21,1
+21,Fundamentals - Course 21,2
+21,Intermediate Concepts - Course 21,3
+21,Advanced Concepts - Course 21,4
+21,Projects & Assessment - Course 21,5
+22,Introduction - Course 22,1
+22,Fundamentals - Course 22,2
+22,Intermediate Concepts - Course 22,3
+22,Advanced Concepts - Course 22,4
+22,Projects & Assessment - Course 22,5
+23,Introduction - Course 23,1
+23,Fundamentals - Course 23,2
+23,Intermediate Concepts - Course 23,3
+23,Advanced Concepts - Course 23,4
+23,Projects & Assessment - Course 23,5
+24,Introduction - Course 24,1
+24,Fundamentals - Course 24,2
+24,Intermediate Concepts - Course 24,3
+24,Advanced Concepts - Course 24,4
+24,Projects & Assessment - Course 24,5
+25,Introduction - Course 25,1
+25,Fundamentals - Course 25,2
+25,Intermediate Concepts - Course 25,3
+25,Advanced Concepts - Course 25,4
+25,Projects & Assessment - Course 25,5
+26,Introduction - Course 26,1
+26,Fundamentals - Course 26,2
+26,Intermediate Concepts - Course 26,3
+26,Advanced Concepts - Course 26,4
+26,Projects & Assessment - Course 26,5
+27,Introduction - Course 27,1
+27,Fundamentals - Course 27,2
+27,Intermediate Concepts - Course 27,3
+27,Advanced Concepts - Course 27,4
+27,Projects & Assessment - Course 27,5
+28,Introduction - Course 28,1
+28,Fundamentals - Course 28,2
+28,Intermediate Concepts - Course 28,3
+28,Advanced Concepts - Course 28,4
+28,Projects & Assessment - Course 28,5
+29,Introduction - Course 29,1
+29,Fundamentals - Course 29,2
+29,Intermediate Concepts - Course 29,3
+29,Advanced Concepts - Course 29,4
+29,Projects & Assessment - Course 29,5
+30,Introduction - Course 30,1
+30,Fundamentals - Course 30,2
+30,Intermediate Concepts - Course 30,3
+30,Advanced Concepts - Course 30,4
+30,Projects & Assessment - Course 30,5
+31,Introduction - Course 31,1
+31,Fundamentals - Course 31,2
+31,Intermediate Concepts - Course 31,3
+31,Advanced Concepts - Course 31,4
+31,Projects & Assessment - Course 31,5
+32,Introduction - Course 32,1
+32,Fundamentals - Course 32,2
+32,Intermediate Concepts - Course 32,3
+32,Advanced Concepts - Course 32,4
+32,Projects & Assessment - Course 32,5
+33,Introduction - Course 33,1
+33,Fundamentals - Course 33,2
+33,Intermediate Concepts - Course 33,3
+33,Advanced Concepts - Course 33,4
+33,Projects & Assessment - Course 33,5
+34,Introduction - Course 34,1
+34,Fundamentals - Course 34,2
+34,Intermediate Concepts - Course 34,3
+34,Advanced Concepts - Course 34,4
+34,Projects & Assessment - Course 34,5
+35,Introduction - Course 35,1
+35,Fundamentals - Course 35,2
+35,Intermediate Concepts - Course 35,3
+35,Advanced Concepts - Course 35,4
+35,Projects & Assessment - Course 35,5
+36,Introduction - Course 36,1
+36,Fundamentals - Course 36,2
+36,Intermediate Concepts - Course 36,3
+36,Advanced Concepts - Course 36,4
+36,Projects & Assessment - Course 36,5
+37,Introduction - Course 37,1
+37,Fundamentals - Course 37,2
+37,Intermediate Concepts - Course 37,3
+37,Advanced Concepts - Course 37,4
+37,Projects & Assessment - Course 37,5
+38,Introduction - Course 38,1
+38,Fundamentals - Course 38,2
+38,Intermediate Concepts - Course 38,3
+38,Advanced Concepts - Course 38,4
+38,Projects & Assessment - Course 38,5
+39,Introduction - Course 39,1
+39,Fundamentals - Course 39,2
+39,Intermediate Concepts - Course 39,3
+39,Advanced Concepts - Course 39,4
+39,Projects & Assessment - Course 39,5
+40,Introduction - Course 40,1
+40,Fundamentals - Course 40,2
+40,Intermediate Concepts - Course 40,3
+40,Advanced Concepts - Course 40,4
+40,Projects & Assessment - Course 40,5
+41,Introduction - Course 41,1
+41,Fundamentals - Course 41,2
+41,Intermediate Concepts - Course 41,3
+41,Advanced Concepts - Course 41,4
+41,Projects & Assessment - Course 41,5
+42,Introduction - Course 42,1
+42,Fundamentals - Course 42,2
+42,Intermediate Concepts - Course 42,3
+42,Advanced Concepts - Course 42,4
+42,Projects & Assessment - Course 42,5
+43,Introduction - Course 43,1
+43,Fundamentals - Course 43,2
+43,Intermediate Concepts - Course 43,3
+43,Advanced Concepts - Course 43,4
+43,Projects & Assessment - Course 43,5
+44,Introduction - Course 44,1
+44,Fundamentals - Course 44,2
+44,Intermediate Concepts - Course 44,3
+44,Advanced Concepts - Course 44,4
+44,Projects & Assessment - Course 44,5
+45,Introduction - Course 45,1
+45,Fundamentals - Course 45,2
+45,Intermediate Concepts - Course 45,3
+45,Advanced Concepts - Course 45,4
+45,Projects & Assessment - Course 45,5
+46,Introduction - Course 46,1
+46,Fundamentals - Course 46,2
+46,Intermediate Concepts - Course 46,3
+46,Advanced Concepts - Course 46,4
+46,Projects & Assessment - Course 46,5
+47,Introduction - Course 47,1
+47,Fundamentals - Course 47,2
+47,Intermediate Concepts - Course 47,3
+47,Advanced Concepts - Course 47,4
+47,Projects & Assessment - Course 47,5
+48,Introduction - Course 48,1
+48,Fundamentals - Course 48,2
+48,Intermediate Concepts - Course 48,3
+48,Advanced Concepts - Course 48,4
+48,Projects & Assessment - Course 48,5
+49,Introduction - Course 49,1
+49,Fundamentals - Course 49,2
+49,Intermediate Concepts - Course 49,3
+49,Advanced Concepts - Course 49,4
+49,Projects & Assessment - Course 49,5
+50,Introduction - Course 50,1
+50,Fundamentals - Course 50,2
+50,Intermediate Concepts - Course 50,3
+50,Advanced Concepts - Course 50,4
+50,Projects & Assessment - Course 50,5
+51,Introduction - Course 51,1
+51,Fundamentals - Course 51,2
+51,Intermediate Concepts - Course 51,3
+51,Advanced Concepts - Course 51,4
+51,Projects & Assessment - Course 51,5
+52,Introduction - Course 52,1
+52,Fundamentals - Course 52,2
+52,Intermediate Concepts - Course 52,3
+52,Advanced Concepts - Course 52,4
+52,Projects & Assessment - Course 52,5
+53,Introduction - Course 53,1
+53,Fundamentals - Course 53,2
+53,Intermediate Concepts - Course 53,3
+53,Advanced Concepts - Course 53,4
+53,Projects & Assessment - Course 53,5
+54,Introduction - Course 54,1
+54,Fundamentals - Course 54,2
+54,Intermediate Concepts - Course 54,3
+54,Advanced Concepts - Course 54,4
+54,Projects & Assessment - Course 54,5
+55,Introduction - Course 55,1
+55,Fundamentals - Course 55,2
+55,Intermediate Concepts - Course 55,3
+55,Advanced Concepts - Course 55,4
+55,Projects & Assessment - Course 55,5
+56,Introduction - Course 56,1
+56,Fundamentals - Course 56,2
+56,Intermediate Concepts - Course 56,3
+56,Advanced Concepts - Course 56,4
+56,Projects & Assessment - Course 56,5
+57,Introduction - Course 57,1
+57,Fundamentals - Course 57,2
+57,Intermediate Concepts - Course 57,3
+57,Advanced Concepts - Course 57,4
+57,Projects & Assessment - Course 57,5
+58,Introduction - Course 58,1
+58,Fundamentals - Course 58,2
+58,Intermediate Concepts - Course 58,3
+58,Advanced Concepts - Course 58,4
+58,Projects & Assessment - Course 58,5
+59,Introduction - Course 59,1
+59,Fundamentals - Course 59,2
+59,Intermediate Concepts - Course 59,3
+59,Advanced Concepts - Course 59,4
+59,Projects & Assessment - Course 59,5
+60,Introduction - Course 60,1
+60,Fundamentals - Course 60,2
+60,Intermediate Concepts - Course 60,3
+60,Advanced Concepts - Course 60,4
+60,Projects & Assessment - Course 60,5
+61,Introduction - Course 61,1
+61,Fundamentals - Course 61,2
+61,Intermediate Concepts - Course 61,3
+61,Advanced Concepts - Course 61,4
+61,Projects & Assessment - Course 61,5
+62,Introduction - Course 62,1
+62,Fundamentals - Course 62,2
+62,Intermediate Concepts - Course 62,3
+62,Advanced Concepts - Course 62,4
+62,Projects & Assessment - Course 62,5
+63,Introduction - Course 63,1
+63,Fundamentals - Course 63,2
+63,Intermediate Concepts - Course 63,3
+63,Advanced Concepts - Course 63,4
+63,Projects & Assessment - Course 63,5
+64,Introduction - Course 64,1
+64,Fundamentals - Course 64,2
+64,Intermediate Concepts - Course 64,3
+64,Advanced Concepts - Course 64,4
+64,Projects & Assessment - Course 64,5
+65,Introduction - Course 65,1
+65,Fundamentals - Course 65,2
+65,Intermediate Concepts - Course 65,3
+65,Advanced Concepts - Course 65,4
+65,Projects & Assessment - Course 65,5
+66,Introduction - Course 66,1
+66,Fundamentals - Course 66,2
+66,Intermediate Concepts - Course 66,3
+66,Advanced Concepts - Course 66,4
+66,Projects & Assessment - Course 66,5
+67,Introduction - Course 67,1
+67,Fundamentals - Course 67,2
+67,Intermediate Concepts - Course 67,3
+67,Advanced Concepts - Course 67,4
+67,Projects & Assessment - Course 67,5
+68,Introduction - Course 68,1
+68,Fundamentals - Course 68,2
+68,Intermediate Concepts - Course 68,3
+68,Advanced Concepts - Course 68,4
+68,Projects & Assessment - Course 68,5
+69,Introduction - Course 69,1
+69,Fundamentals - Course 69,2
+69,Intermediate Concepts - Course 69,3
+69,Advanced Concepts - Course 69,4
+69,Projects & Assessment - Course 69,5
+70,Introduction - Course 70,1
+70,Fundamentals - Course 70,2
+70,Intermediate Concepts - Course 70,3
+70,Advanced Concepts - Course 70,4
+70,Projects & Assessment - Course 70,5
+71,Introduction - Course 71,1
+71,Fundamentals - Course 71,2
+71,Intermediate Concepts - Course 71,3
+71,Advanced Concepts - Course 71,4
+71,Projects & Assessment - Course 71,5
+72,Introduction - Course 72,1
+72,Fundamentals - Course 72,2
+72,Intermediate Concepts - Course 72,3
+72,Advanced Concepts - Course 72,4
+72,Projects & Assessment - Course 72,5
+73,Introduction - Course 73,1
+73,Fundamentals - Course 73,2
+73,Intermediate Concepts - Course 73,3
+73,Advanced Concepts - Course 73,4
+73,Projects & Assessment - Course 73,5
+74,Introduction - Course 74,1
+74,Fundamentals - Course 74,2
+74,Intermediate Concepts - Course 74,3
+74,Advanced Concepts - Course 74,4
+74,Projects & Assessment - Course 74,5
+75,Introduction - Course 75,1
+75,Fundamentals - Course 75,2
+75,Intermediate Concepts - Course 75,3
+75,Advanced Concepts - Course 75,4
+75,Projects & Assessment - Course 75,5
+76,Introduction - Course 76,1
+76,Fundamentals - Course 76,2
+76,Intermediate Concepts - Course 76,3
+76,Advanced Concepts - Course 76,4
+76,Projects & Assessment - Course 76,5
+77,Introduction - Course 77,1
+77,Fundamentals - Course 77,2
+77,Intermediate Concepts - Course 77,3
+77,Advanced Concepts - Course 77,4
+77,Projects & Assessment - Course 77,5
+78,Introduction - Course 78,1
+78,Fundamentals - Course 78,2
+78,Intermediate Concepts - Course 78,3
+78,Advanced Concepts - Course 78,4
+78,Projects & Assessment - Course 78,5
+79,Introduction - Course 79,1
+79,Fundamentals - Course 79,2
+79,Intermediate Concepts - Course 79,3
+79,Advanced Concepts - Course 79,4
+79,Projects & Assessment - Course 79,5
+80,Introduction - Course 80,1
+80,Fundamentals - Course 80,2
+80,Intermediate Concepts - Course 80,3
+80,Advanced Concepts - Course 80,4
+80,Projects & Assessment - Course 80,5
+81,Introduction - Course 81,1
+81,Fundamentals - Course 81,2
+81,Intermediate Concepts - Course 81,3
+81,Advanced Concepts - Course 81,4
+81,Projects & Assessment - Course 81,5
+82,Introduction - Course 82,1
+82,Fundamentals - Course 82,2
+82,Intermediate Concepts - Course 82,3
+82,Advanced Concepts - Course 82,4
+82,Projects & Assessment - Course 82,5
+83,Introduction - Course 83,1
+83,Fundamentals - Course 83,2
+83,Intermediate Concepts - Course 83,3
+83,Advanced Concepts - Course 83,4
+83,Projects & Assessment - Course 83,5
+84,Introduction - Course 84,1
+84,Fundamentals - Course 84,2
+84,Intermediate Concepts - Course 84,3
+84,Advanced Concepts - Course 84,4
+84,Projects & Assessment - Course 84,5
+85,Introduction - Course 85,1
+85,Fundamentals - Course 85,2
+85,Intermediate Concepts - Course 85,3
+85,Advanced Concepts - Course 85,4
+85,Projects & Assessment - Course 85,5
+86,Introduction - Course 86,1
+86,Fundamentals - Course 86,2
+86,Intermediate Concepts - Course 86,3
+86,Advanced Concepts - Course 86,4
+86,Projects & Assessment - Course 86,5
+87,Introduction - Course 87,1
+87,Fundamentals - Course 87,2
+87,Intermediate Concepts - Course 87,3
+87,Advanced Concepts - Course 87,4
+87,Projects & Assessment - Course 87,5
+88,Introduction - Course 88,1
+88,Fundamentals - Course 88,2
+88,Intermediate Concepts - Course 88,3
+88,Advanced Concepts - Course 88,4
+88,Projects & Assessment - Course 88,5
+89,Introduction - Course 89,1
+89,Fundamentals - Course 89,2
+89,Intermediate Concepts - Course 89,3
+89,Advanced Concepts - Course 89,4
+89,Projects & Assessment - Course 89,5
+90,Introduction - Course 90,1
+90,Fundamentals - Course 90,2
+90,Intermediate Concepts - Course 90,3
+90,Advanced Concepts - Course 90,4
+90,Projects & Assessment - Course 90,5
+91,Introduction - Course 91,1
+91,Fundamentals - Course 91,2
+91,Intermediate Concepts - Course 91,3
+91,Advanced Concepts - Course 91,4
+91,Projects & Assessment - Course 91,5
+92,Introduction - Course 92,1
+92,Fundamentals - Course 92,2
+92,Intermediate Concepts - Course 92,3
+92,Advanced Concepts - Course 92,4
+92,Projects & Assessment - Course 92,5
+93,Introduction - Course 93,1
+93,Fundamentals - Course 93,2
+93,Intermediate Concepts - Course 93,3
+93,Advanced Concepts - Course 93,4
+93,Projects & Assessment - Course 93,5
+94,Introduction - Course 94,1
+94,Fundamentals - Course 94,2
+94,Intermediate Concepts - Course 94,3
+94,Advanced Concepts - Course 94,4
+94,Projects & Assessment - Course 94,5
+95,Introduction - Course 95,1
+95,Fundamentals - Course 95,2
+95,Intermediate Concepts - Course 95,3
+95,Advanced Concepts - Course 95,4
+95,Projects & Assessment - Course 95,5
+96,Introduction - Course 96,1
+96,Fundamentals - Course 96,2
+96,Intermediate Concepts - Course 96,3
+96,Advanced Concepts - Course 96,4
+96,Projects & Assessment - Course 96,5
+97,Introduction - Course 97,1
+97,Fundamentals - Course 97,2
+97,Intermediate Concepts - Course 97,3
+97,Advanced Concepts - Course 97,4
+97,Projects & Assessment - Course 97,5
+98,Introduction - Course 98,1
+98,Fundamentals - Course 98,2
+98,Intermediate Concepts - Course 98,3
+98,Advanced Concepts - Course 98,4
+98,Projects & Assessment - Course 98,5
+99,Introduction - Course 99,1
+99,Fundamentals - Course 99,2
+99,Intermediate Concepts - Course 99,3
+99,Advanced Concepts - Course 99,4
+99,Projects & Assessment - Course 99,5
+100,Introduction - Course 100,1
+100,Fundamentals - Course 100,2
+100,Intermediate Concepts - Course 100,3
+100,Advanced Concepts - Course 100,4
+100,Projects & Assessment - Course 100,5

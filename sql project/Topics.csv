@@ -1,0 +1,2001 @@
+module_id,topic_title,topic_order
+1,Introduction: Overview (Course 1),1
+1,Introduction: Core Concepts (Course 1),2
+1,Introduction: Hands-on Practice (Course 1),3
+1,Introduction: Mini Project (Course 1),4
+2,Fundamentals: Overview (Course 1),1
+2,Fundamentals: Core Concepts (Course 1),2
+2,Fundamentals: Hands-on Practice (Course 1),3
+2,Fundamentals: Mini Project (Course 1),4
+3,Intermediate Concepts: Overview (Course 1),1
+3,Intermediate Concepts: Core Concepts (Course 1),2
+3,Intermediate Concepts: Hands-on Practice (Course 1),3
+3,Intermediate Concepts: Mini Project (Course 1),4
+4,Advanced Concepts: Overview (Course 1),1
+4,Advanced Concepts: Core Concepts (Course 1),2
+4,Advanced Concepts: Hands-on Practice (Course 1),3
+4,Advanced Concepts: Mini Project (Course 1),4
+5,Projects & Assessment: Overview (Course 1),1
+5,Projects & Assessment: Core Concepts (Course 1),2
+5,Projects & Assessment: Hands-on Practice (Course 1),3
+5,Projects & Assessment: Mini Project (Course 1),4
+6,Introduction: Overview (Course 2),1
+6,Introduction: Core Concepts (Course 2),2
+6,Introduction: Hands-on Practice (Course 2),3
+6,Introduction: Mini Project (Course 2),4
+7,Fundamentals: Overview (Course 2),1
+7,Fundamentals: Core Concepts (Course 2),2
+7,Fundamentals: Hands-on Practice (Course 2),3
+7,Fundamentals: Mini Project (Course 2),4
+8,Intermediate Concepts: Overview (Course 2),1
+8,Intermediate Concepts: Core Concepts (Course 2),2
+8,Intermediate Concepts: Hands-on Practice (Course 2),3
+8,Intermediate Concepts: Mini Project (Course 2),4
+9,Advanced Concepts: Overview (Course 2),1
+9,Advanced Concepts: Core Concepts (Course 2),2
+9,Advanced Concepts: Hands-on Practice (Course 2),3
+9,Advanced Concepts: Mini Project (Course 2),4
+10,Projects & Assessment: Overview (Course 2),1
+10,Projects & Assessment: Core Concepts (Course 2),2
+10,Projects & Assessment: Hands-on Practice (Course 2),3
+10,Projects & Assessment: Mini Project (Course 2),4
+11,Introduction: Overview (Course 3),1
+11,Introduction: Core Concepts (Course 3),2
+11,Introduction: Hands-on Practice (Course 3),3
+11,Introduction: Mini Project (Course 3),4
+12,Fundamentals: Overview (Course 3),1
+12,Fundamentals: Core Concepts (Course 3),2
+12,Fundamentals: Hands-on Practice (Course 3),3
+12,Fundamentals: Mini Project (Course 3),4
+13,Intermediate Concepts: Overview (Course 3),1
+13,Intermediate Concepts: Core Concepts (Course 3),2
+13,Intermediate Concepts: Hands-on Practice (Course 3),3
+13,Intermediate Concepts: Mini Project (Course 3),4
+14,Advanced Concepts: Overview (Course 3),1
+14,Advanced Concepts: Core Concepts (Course 3),2
+14,Advanced Concepts: Hands-on Practice (Course 3),3
+14,Advanced Concepts: Mini Project (Course 3),4
+15,Projects & Assessment: Overview (Course 3),1
+15,Projects & Assessment: Core Concepts (Course 3),2
+15,Projects & Assessment: Hands-on Practice (Course 3),3
+15,Projects & Assessment: Mini Project (Course 3),4
+16,Introduction: Overview (Course 4),1
+16,Introduction: Core Concepts (Course 4),2
+16,Introduction: Hands-on Practice (Course 4),3
+16,Introduction: Mini Project (Course 4),4
+17,Fundamentals: Overview (Course 4),1
+17,Fundamentals: Core Concepts (Course 4),2
+17,Fundamentals: Hands-on Practice (Course 4),3
+17,Fundamentals: Mini Project (Course 4),4
+18,Intermediate Concepts: Overview (Course 4),1
+18,Intermediate Concepts: Core Concepts (Course 4),2
+18,Intermediate Concepts: Hands-on Practice (Course 4),3
+18,Intermediate Concepts: Mini Project (Course 4),4
+19,Advanced Concepts: Overview (Course 4),1
+19,Advanced Concepts: Core Concepts (Course 4),2
+19,Advanced Concepts: Hands-on Practice (Course 4),3
+19,Advanced Concepts: Mini Project (Course 4),4
+20,Projects & Assessment: Overview (Course 4),1
+20,Projects & Assessment: Core Concepts (Course 4),2
+20,Projects & Assessment: Hands-on Practice (Course 4),3
+20,Projects & Assessment: Mini Project (Course 4),4
+21,Introduction: Overview (Course 5),1
+21,Introduction: Core Concepts (Course 5),2
+21,Introduction: Hands-on Practice (Course 5),3
+21,Introduction: Mini Project (Course 5),4
+22,Fundamentals: Overview (Course 5),1
+22,Fundamentals: Core Concepts (Course 5),2
+22,Fundamentals: Hands-on Practice (Course 5),3
+22,Fundamentals: Mini Project (Course 5),4
+23,Intermediate Concepts: Overview (Course 5),1
+23,Intermediate Concepts: Core Concepts (Course 5),2
+23,Intermediate Concepts: Hands-on Practice (Course 5),3
+23,Intermediate Concepts: Mini Project (Course 5),4
+24,Advanced Concepts: Overview (Course 5),1
+24,Advanced Concepts: Core Concepts (Course 5),2
+24,Advanced Concepts: Hands-on Practice (Course 5),3
+24,Advanced Concepts: Mini Project (Course 5),4
+25,Projects & Assessment: Overview (Course 5),1
+25,Projects & Assessment: Core Concepts (Course 5),2
+25,Projects & Assessment: Hands-on Practice (Course 5),3
+25,Projects & Assessment: Mini Project (Course 5),4
+26,Introduction: Overview (Course 6),1
+26,Introduction: Core Concepts (Course 6),2
+26,Introduction: Hands-on Practice (Course 6),3
+26,Introduction: Mini Project (Course 6),4
+27,Fundamentals: Overview (Course 6),1
+27,Fundamentals: Core Concepts (Course 6),2
+27,Fundamentals: Hands-on Practice (Course 6),3
+27,Fundamentals: Mini Project (Course 6),4
+28,Intermediate Concepts: Overview (Course 6),1
+28,Intermediate Concepts: Core Concepts (Course 6),2
+28,Intermediate Concepts: Hands-on Practice (Course 6),3
+28,Intermediate Concepts: Mini Project (Course 6),4
+29,Advanced Concepts: Overview (Course 6),1
+29,Advanced Concepts: Core Concepts (Course 6),2
+29,Advanced Concepts: Hands-on Practice (Course 6),3
+29,Advanced Concepts: Mini Project (Course 6),4
+30,Projects & Assessment: Overview (Course 6),1
+30,Projects & Assessment: Core Concepts (Course 6),2
+30,Projects & Assessment: Hands-on Practice (Course 6),3
+30,Projects & Assessment: Mini Project (Course 6),4
+31,Introduction: Overview (Course 7),1
+31,Introduction: Core Concepts (Course 7),2
+31,Introduction: Hands-on Practice (Course 7),3
+31,Introduction: Mini Project (Course 7),4
+32,Fundamentals: Overview (Course 7),1
+32,Fundamentals: Core Concepts (Course 7),2
+32,Fundamentals: Hands-on Practice (Course 7),3
+32,Fundamentals: Mini Project (Course 7),4
+33,Intermediate Concepts: Overview (Course 7),1
+33,Intermediate Concepts: Core Concepts (Course 7),2
+33,Intermediate Concepts: Hands-on Practice (Course 7),3
+33,Intermediate Concepts: Mini Project (Course 7),4
+34,Advanced Concepts: Overview (Course 7),1
+34,Advanced Concepts: Core Concepts (Course 7),2
+34,Advanced Concepts: Hands-on Practice (Course 7),3
+34,Advanced Concepts: Mini Project (Course 7),4
+35,Projects & Assessment: Overview (Course 7),1
+35,Projects & Assessment: Core Concepts (Course 7),2
+35,Projects & Assessment: Hands-on Practice (Course 7),3
+35,Projects & Assessment: Mini Project (Course 7),4
+36,Introduction: Overview (Course 8),1
+36,Introduction: Core Concepts (Course 8),2
+36,Introduction: Hands-on Practice (Course 8),3
+36,Introduction: Mini Project (Course 8),4
+37,Fundamentals: Overview (Course 8),1
+37,Fundamentals: Core Concepts (Course 8),2
+37,Fundamentals: Hands-on Practice (Course 8),3
+37,Fundamentals: Mini Project (Course 8),4
+38,Intermediate Concepts: Overview (Course 8),1
+38,Intermediate Concepts: Core Concepts (Course 8),2
+38,Intermediate Concepts: Hands-on Practice (Course 8),3
+38,Intermediate Concepts: Mini Project (Course 8),4
+39,Advanced Concepts: Overview (Course 8),1
+39,Advanced Concepts: Core Concepts (Course 8),2
+39,Advanced Concepts: Hands-on Practice (Course 8),3
+39,Advanced Concepts: Mini Project (Course 8),4
+40,Projects & Assessment: Overview (Course 8),1
+40,Projects & Assessment: Core Concepts (Course 8),2
+40,Projects & Assessment: Hands-on Practice (Course 8),3
+40,Projects & Assessment: Mini Project (Course 8),4
+41,Introduction: Overview (Course 9),1
+41,Introduction: Core Concepts (Course 9),2
+41,Introduction: Hands-on Practice (Course 9),3
+41,Introduction: Mini Project (Course 9),4
+42,Fundamentals: Overview (Course 9),1
+42,Fundamentals: Core Concepts (Course 9),2
+42,Fundamentals: Hands-on Practice (Course 9),3
+42,Fundamentals: Mini Project (Course 9),4
+43,Intermediate Concepts: Overview (Course 9),1
+43,Intermediate Concepts: Core Concepts (Course 9),2
+43,Intermediate Concepts: Hands-on Practice (Course 9),3
+43,Intermediate Concepts: Mini Project (Course 9),4
+44,Advanced Concepts: Overview (Course 9),1
+44,Advanced Concepts: Core Concepts (Course 9),2
+44,Advanced Concepts: Hands-on Practice (Course 9),3
+44,Advanced Concepts: Mini Project (Course 9),4
+45,Projects & Assessment: Overview (Course 9),1
+45,Projects & Assessment: Core Concepts (Course 9),2
+45,Projects & Assessment: Hands-on Practice (Course 9),3
+45,Projects & Assessment: Mini Project (Course 9),4
+46,Introduction: Overview (Course 10),1
+46,Introduction: Core Concepts (Course 10),2
+46,Introduction: Hands-on Practice (Course 10),3
+46,Introduction: Mini Project (Course 10),4
+47,Fundamentals: Overview (Course 10),1
+47,Fundamentals: Core Concepts (Course 10),2
+47,Fundamentals: Hands-on Practice (Course 10),3
+47,Fundamentals: Mini Project (Course 10),4
+48,Intermediate Concepts: Overview (Course 10),1
+48,Intermediate Concepts: Core Concepts (Course 10),2
+48,Intermediate Concepts: Hands-on Practice (Course 10),3
+48,Intermediate Concepts: Mini Project (Course 10),4
+49,Advanced Concepts: Overview (Course 10),1
+49,Advanced Concepts: Core Concepts (Course 10),2
+49,Advanced Concepts: Hands-on Practice (Course 10),3
+49,Advanced Concepts: Mini Project (Course 10),4
+50,Projects & Assessment: Overview (Course 10),1
+50,Projects & Assessment: Core Concepts (Course 10),2
+50,Projects & Assessment: Hands-on Practice (Course 10),3
+50,Projects & Assessment: Mini Project (Course 10),4
+51,Introduction: Overview (Course 11),1
+51,Introduction: Core Concepts (Course 11),2
+51,Introduction: Hands-on Practice (Course 11),3
+51,Introduction: Mini Project (Course 11),4
+52,Fundamentals: Overview (Course 11),1
+52,Fundamentals: Core Concepts (Course 11),2
+52,Fundamentals: Hands-on Practice (Course 11),3
+52,Fundamentals: Mini Project (Course 11),4
+53,Intermediate Concepts: Overview (Course 11),1
+53,Intermediate Concepts: Core Concepts (Course 11),2
+53,Intermediate Concepts: Hands-on Practice (Course 11),3
+53,Intermediate Concepts: Mini Project (Course 11),4
+54,Advanced Concepts: Overview (Course 11),1
+54,Advanced Concepts: Core Concepts (Course 11),2
+54,Advanced Concepts: Hands-on Practice (Course 11),3
+54,Advanced Concepts: Mini Project (Course 11),4
+55,Projects & Assessment: Overview (Course 11),1
+55,Projects & Assessment: Core Concepts (Course 11),2
+55,Projects & Assessment: Hands-on Practice (Course 11),3
+55,Projects & Assessment: Mini Project (Course 11),4
+56,Introduction: Overview (Course 12),1
+56,Introduction: Core Concepts (Course 12),2
+56,Introduction: Hands-on Practice (Course 12),3
+56,Introduction: Mini Project (Course 12),4
+57,Fundamentals: Overview (Course 12),1
+57,Fundamentals: Core Concepts (Course 12),2
+57,Fundamentals: Hands-on Practice (Course 12),3
+57,Fundamentals: Mini Project (Course 12),4
+58,Intermediate Concepts: Overview (Course 12),1
+58,Intermediate Concepts: Core Concepts (Course 12),2
+58,Intermediate Concepts: Hands-on Practice (Course 12),3
+58,Intermediate Concepts: Mini Project (Course 12),4
+59,Advanced Concepts: Overview (Course 12),1
+59,Advanced Concepts: Core Concepts (Course 12),2
+59,Advanced Concepts: Hands-on Practice (Course 12),3
+59,Advanced Concepts: Mini Project (Course 12),4
+60,Projects & Assessment: Overview (Course 12),1
+60,Projects & Assessment: Core Concepts (Course 12),2
+60,Projects & Assessment: Hands-on Practice (Course 12),3
+60,Projects & Assessment: Mini Project (Course 12),4
+61,Introduction: Overview (Course 13),1
+61,Introduction: Core Concepts (Course 13),2
+61,Introduction: Hands-on Practice (Course 13),3
+61,Introduction: Mini Project (Course 13),4
+62,Fundamentals: Overview (Course 13),1
+62,Fundamentals: Core Concepts (Course 13),2
+62,Fundamentals: Hands-on Practice (Course 13),3
+62,Fundamentals: Mini Project (Course 13),4
+63,Intermediate Concepts: Overview (Course 13),1
+63,Intermediate Concepts: Core Concepts (Course 13),2
+63,Intermediate Concepts: Hands-on Practice (Course 13),3
+63,Intermediate Concepts: Mini Project (Course 13),4
+64,Advanced Concepts: Overview (Course 13),1
+64,Advanced Concepts: Core Concepts (Course 13),2
+64,Advanced Concepts: Hands-on Practice (Course 13),3
+64,Advanced Concepts: Mini Project (Course 13),4
+65,Projects & Assessment: Overview (Course 13),1
+65,Projects & Assessment: Core Concepts (Course 13),2
+65,Projects & Assessment: Hands-on Practice (Course 13),3
+65,Projects & Assessment: Mini Project (Course 13),4
+66,Introduction: Overview (Course 14),1
+66,Introduction: Core Concepts (Course 14),2
+66,Introduction: Hands-on Practice (Course 14),3
+66,Introduction: Mini Project (Course 14),4
+67,Fundamentals: Overview (Course 14),1
+67,Fundamentals: Core Concepts (Course 14),2
+67,Fundamentals: Hands-on Practice (Course 14),3
+67,Fundamentals: Mini Project (Course 14),4
+68,Intermediate Concepts: Overview (Course 14),1
+68,Intermediate Concepts: Core Concepts (Course 14),2
+68,Intermediate Concepts: Hands-on Practice (Course 14),3
+68,Intermediate Concepts: Mini Project (Course 14),4
+69,Advanced Concepts: Overview (Course 14),1
+69,Advanced Concepts: Core Concepts (Course 14),2
+69,Advanced Concepts: Hands-on Practice (Course 14),3
+69,Advanced Concepts: Mini Project (Course 14),4
+70,Projects & Assessment: Overview (Course 14),1
+70,Projects & Assessment: Core Concepts (Course 14),2
+70,Projects & Assessment: Hands-on Practice (Course 14),3
+70,Projects & Assessment: Mini Project (Course 14),4
+71,Introduction: Overview (Course 15),1
+71,Introduction: Core Concepts (Course 15),2
+71,Introduction: Hands-on Practice (Course 15),3
+71,Introduction: Mini Project (Course 15),4
+72,Fundamentals: Overview (Course 15),1
+72,Fundamentals: Core Concepts (Course 15),2
+72,Fundamentals: Hands-on Practice (Course 15),3
+72,Fundamentals: Mini Project (Course 15),4
+73,Intermediate Concepts: Overview (Course 15),1
+73,Intermediate Concepts: Core Concepts (Course 15),2
+73,Intermediate Concepts: Hands-on Practice (Course 15),3
+73,Intermediate Concepts: Mini Project (Course 15),4
+74,Advanced Concepts: Overview (Course 15),1
+74,Advanced Concepts: Core Concepts (Course 15),2
+74,Advanced Concepts: Hands-on Practice (Course 15),3
+74,Advanced Concepts: Mini Project (Course 15),4
+75,Projects & Assessment: Overview (Course 15),1
+75,Projects & Assessment: Core Concepts (Course 15),2
+75,Projects & Assessment: Hands-on Practice (Course 15),3
+75,Projects & Assessment: Mini Project (Course 15),4
+76,Introduction: Overview (Course 16),1
+76,Introduction: Core Concepts (Course 16),2
+76,Introduction: Hands-on Practice (Course 16),3
+76,Introduction: Mini Project (Course 16),4
+77,Fundamentals: Overview (Course 16),1
+77,Fundamentals: Core Concepts (Course 16),2
+77,Fundamentals: Hands-on Practice (Course 16),3
+77,Fundamentals: Mini Project (Course 16),4
+78,Intermediate Concepts: Overview (Course 16),1
+78,Intermediate Concepts: Core Concepts (Course 16),2
+78,Intermediate Concepts: Hands-on Practice (Course 16),3
+78,Intermediate Concepts: Mini Project (Course 16),4
+79,Advanced Concepts: Overview (Course 16),1
+79,Advanced Concepts: Core Concepts (Course 16),2
+79,Advanced Concepts: Hands-on Practice (Course 16),3
+79,Advanced Concepts: Mini Project (Course 16),4
+80,Projects & Assessment: Overview (Course 16),1
+80,Projects & Assessment: Core Concepts (Course 16),2
+80,Projects & Assessment: Hands-on Practice (Course 16),3
+80,Projects & Assessment: Mini Project (Course 16),4
+81,Introduction: Overview (Course 17),1
+81,Introduction: Core Concepts (Course 17),2
+81,Introduction: Hands-on Practice (Course 17),3
+81,Introduction: Mini Project (Course 17),4
+82,Fundamentals: Overview (Course 17),1
+82,Fundamentals: Core Concepts (Course 17),2
+82,Fundamentals: Hands-on Practice (Course 17),3
+82,Fundamentals: Mini Project (Course 17),4
+83,Intermediate Concepts: Overview (Course 17),1
+83,Intermediate Concepts: Core Concepts (Course 17),2
+83,Intermediate Concepts: Hands-on Practice (Course 17),3
+83,Intermediate Concepts: Mini Project (Course 17),4
+84,Advanced Concepts: Overview (Course 17),1
+84,Advanced Concepts: Core Concepts (Course 17),2
+84,Advanced Concepts: Hands-on Practice (Course 17),3
+84,Advanced Concepts: Mini Project (Course 17),4
+85,Projects & Assessment: Overview (Course 17),1
+85,Projects & Assessment: Core Concepts (Course 17),2
+85,Projects & Assessment: Hands-on Practice (Course 17),3
+85,Projects & Assessment: Mini Project (Course 17),4
+86,Introduction: Overview (Course 18),1
+86,Introduction: Core Concepts (Course 18),2
+86,Introduction: Hands-on Practice (Course 18),3
+86,Introduction: Mini Project (Course 18),4
+87,Fundamentals: Overview (Course 18),1
+87,Fundamentals: Core Concepts (Course 18),2
+87,Fundamentals: Hands-on Practice (Course 18),3
+87,Fundamentals: Mini Project (Course 18),4
+88,Intermediate Concepts: Overview (Course 18),1
+88,Intermediate Concepts: Core Concepts (Course 18),2
+88,Intermediate Concepts: Hands-on Practice (Course 18),3
+88,Intermediate Concepts: Mini Project (Course 18),4
+89,Advanced Concepts: Overview (Course 18),1
+89,Advanced Concepts: Core Concepts (Course 18),2
+89,Advanced Concepts: Hands-on Practice (Course 18),3
+89,Advanced Concepts: Mini Project (Course 18),4
+90,Projects & Assessment: Overview (Course 18),1
+90,Projects & Assessment: Core Concepts (Course 18),2
+90,Projects & Assessment: Hands-on Practice (Course 18),3
+90,Projects & Assessment: Mini Project (Course 18),4
+91,Introduction: Overview (Course 19),1
+91,Introduction: Core Concepts (Course 19),2
+91,Introduction: Hands-on Practice (Course 19),3
+91,Introduction: Mini Project (Course 19),4
+92,Fundamentals: Overview (Course 19),1
+92,Fundamentals: Core Concepts (Course 19),2
+92,Fundamentals: Hands-on Practice (Course 19),3
+92,Fundamentals: Mini Project (Course 19),4
+93,Intermediate Concepts: Overview (Course 19),1
+93,Intermediate Concepts: Core Concepts (Course 19),2
+93,Intermediate Concepts: Hands-on Practice (Course 19),3
+93,Intermediate Concepts: Mini Project (Course 19),4
+94,Advanced Concepts: Overview (Course 19),1
+94,Advanced Concepts: Core Concepts (Course 19),2
+94,Advanced Concepts: Hands-on Practice (Course 19),3
+94,Advanced Concepts: Mini Project (Course 19),4
+95,Projects & Assessment: Overview (Course 19),1
+95,Projects & Assessment: Core Concepts (Course 19),2
+95,Projects & Assessment: Hands-on Practice (Course 19),3
+95,Projects & Assessment: Mini Project (Course 19),4
+96,Introduction: Overview (Course 20),1
+96,Introduction: Core Concepts (Course 20),2
+96,Introduction: Hands-on Practice (Course 20),3
+96,Introduction: Mini Project (Course 20),4
+97,Fundamentals: Overview (Course 20),1
+97,Fundamentals: Core Concepts (Course 20),2
+97,Fundamentals: Hands-on Practice (Course 20),3
+97,Fundamentals: Mini Project (Course 20),4
+98,Intermediate Concepts: Overview (Course 20),1
+98,Intermediate Concepts: Core Concepts (Course 20),2
+98,Intermediate Concepts: Hands-on Practice (Course 20),3
+98,Intermediate Concepts: Mini Project (Course 20),4
+99,Advanced Concepts: Overview (Course 20),1
+99,Advanced Concepts: Core Concepts (Course 20),2
+99,Advanced Concepts: Hands-on Practice (Course 20),3
+99,Advanced Concepts: Mini Project (Course 20),4
+100,Projects & Assessment: Overview (Course 20),1
+100,Projects & Assessment: Core Concepts (Course 20),2
+100,Projects & Assessment: Hands-on Practice (Course 20),3
+100,Projects & Assessment: Mini Project (Course 20),4
+101,Introduction: Overview (Course 21),1
+101,Introduction: Core Concepts (Course 21),2
+101,Introduction: Hands-on Practice (Course 21),3
+101,Introduction: Mini Project (Course 21),4
+102,Fundamentals: Overview (Course 21),1
+102,Fundamentals: Core Concepts (Course 21),2
+102,Fundamentals: Hands-on Practice (Course 21),3
+102,Fundamentals: Mini Project (Course 21),4
+103,Intermediate Concepts: Overview (Course 21),1
+103,Intermediate Concepts: Core Concepts (Course 21),2
+103,Intermediate Concepts: Hands-on Practice (Course 21),3
+103,Intermediate Concepts: Mini Project (Course 21),4
+104,Advanced Concepts: Overview (Course 21),1
+104,Advanced Concepts: Core Concepts (Course 21),2
+104,Advanced Concepts: Hands-on Practice (Course 21),3
+104,Advanced Concepts: Mini Project (Course 21),4
+105,Projects & Assessment: Overview (Course 21),1
+105,Projects & Assessment: Core Concepts (Course 21),2
+105,Projects & Assessment: Hands-on Practice (Course 21),3
+105,Projects & Assessment: Mini Project (Course 21),4
+106,Introduction: Overview (Course 22),1
+106,Introduction: Core Concepts (Course 22),2
+106,Introduction: Hands-on Practice (Course 22),3
+106,Introduction: Mini Project (Course 22),4
+107,Fundamentals: Overview (Course 22),1
+107,Fundamentals: Core Concepts (Course 22),2
+107,Fundamentals: Hands-on Practice (Course 22),3
+107,Fundamentals: Mini Project (Course 22),4
+108,Intermediate Concepts: Overview (Course 22),1
+108,Intermediate Concepts: Core Concepts (Course 22),2
+108,Intermediate Concepts: Hands-on Practice (Course 22),3
+108,Intermediate Concepts: Mini Project (Course 22),4
+109,Advanced Concepts: Overview (Course 22),1
+109,Advanced Concepts: Core Concepts (Course 22),2
+109,Advanced Concepts: Hands-on Practice (Course 22),3
+109,Advanced Concepts: Mini Project (Course 22),4
+110,Projects & Assessment: Overview (Course 22),1
+110,Projects & Assessment: Core Concepts (Course 22),2
+110,Projects & Assessment: Hands-on Practice (Course 22),3
+110,Projects & Assessment: Mini Project (Course 22),4
+111,Introduction: Overview (Course 23),1
+111,Introduction: Core Concepts (Course 23),2
+111,Introduction: Hands-on Practice (Course 23),3
+111,Introduction: Mini Project (Course 23),4
+112,Fundamentals: Overview (Course 23),1
+112,Fundamentals: Core Concepts (Course 23),2
+112,Fundamentals: Hands-on Practice (Course 23),3
+112,Fundamentals: Mini Project (Course 23),4
+113,Intermediate Concepts: Overview (Course 23),1
+113,Intermediate Concepts: Core Concepts (Course 23),2
+113,Intermediate Concepts: Hands-on Practice (Course 23),3
+113,Intermediate Concepts: Mini Project (Course 23),4
+114,Advanced Concepts: Overview (Course 23),1
+114,Advanced Concepts: Core Concepts (Course 23),2
+114,Advanced Concepts: Hands-on Practice (Course 23),3
+114,Advanced Concepts: Mini Project (Course 23),4
+115,Projects & Assessment: Overview (Course 23),1
+115,Projects & Assessment: Core Concepts (Course 23),2
+115,Projects & Assessment: Hands-on Practice (Course 23),3
+115,Projects & Assessment: Mini Project (Course 23),4
+116,Introduction: Overview (Course 24),1
+116,Introduction: Core Concepts (Course 24),2
+116,Introduction: Hands-on Practice (Course 24),3
+116,Introduction: Mini Project (Course 24),4
+117,Fundamentals: Overview (Course 24),1
+117,Fundamentals: Core Concepts (Course 24),2
+117,Fundamentals: Hands-on Practice (Course 24),3
+117,Fundamentals: Mini Project (Course 24),4
+118,Intermediate Concepts: Overview (Course 24),1
+118,Intermediate Concepts: Core Concepts (Course 24),2
+118,Intermediate Concepts: Hands-on Practice (Course 24),3
+118,Intermediate Concepts: Mini Project (Course 24),4
+119,Advanced Concepts: Overview (Course 24),1
+119,Advanced Concepts: Core Concepts (Course 24),2
+119,Advanced Concepts: Hands-on Practice (Course 24),3
+119,Advanced Concepts: Mini Project (Course 24),4
+120,Projects & Assessment: Overview (Course 24),1
+120,Projects & Assessment: Core Concepts (Course 24),2
+120,Projects & Assessment: Hands-on Practice (Course 24),3
+120,Projects & Assessment: Mini Project (Course 24),4
+121,Introduction: Overview (Course 25),1
+121,Introduction: Core Concepts (Course 25),2
+121,Introduction: Hands-on Practice (Course 25),3
+121,Introduction: Mini Project (Course 25),4
+122,Fundamentals: Overview (Course 25),1
+122,Fundamentals: Core Concepts (Course 25),2
+122,Fundamentals: Hands-on Practice (Course 25),3
+122,Fundamentals: Mini Project (Course 25),4
+123,Intermediate Concepts: Overview (Course 25),1
+123,Intermediate Concepts: Core Concepts (Course 25),2
+123,Intermediate Concepts: Hands-on Practice (Course 25),3
+123,Intermediate Concepts: Mini Project (Course 25),4
+124,Advanced Concepts: Overview (Course 25),1
+124,Advanced Concepts: Core Concepts (Course 25),2
+124,Advanced Concepts: Hands-on Practice (Course 25),3
+124,Advanced Concepts: Mini Project (Course 25),4
+125,Projects & Assessment: Overview (Course 25),1
+125,Projects & Assessment: Core Concepts (Course 25),2
+125,Projects & Assessment: Hands-on Practice (Course 25),3
+125,Projects & Assessment: Mini Project (Course 25),4
+126,Introduction: Overview (Course 26),1
+126,Introduction: Core Concepts (Course 26),2
+126,Introduction: Hands-on Practice (Course 26),3
+126,Introduction: Mini Project (Course 26),4
+127,Fundamentals: Overview (Course 26),1
+127,Fundamentals: Core Concepts (Course 26),2
+127,Fundamentals: Hands-on Practice (Course 26),3
+127,Fundamentals: Mini Project (Course 26),4
+128,Intermediate Concepts: Overview (Course 26),1
+128,Intermediate Concepts: Core Concepts (Course 26),2
+128,Intermediate Concepts: Hands-on Practice (Course 26),3
+128,Intermediate Concepts: Mini Project (Course 26),4
+129,Advanced Concepts: Overview (Course 26),1
+129,Advanced Concepts: Core Concepts (Course 26),2
+129,Advanced Concepts: Hands-on Practice (Course 26),3
+129,Advanced Concepts: Mini Project (Course 26),4
+130,Projects & Assessment: Overview (Course 26),1
+130,Projects & Assessment: Core Concepts (Course 26),2
+130,Projects & Assessment: Hands-on Practice (Course 26),3
+130,Projects & Assessment: Mini Project (Course 26),4
+131,Introduction: Overview (Course 27),1
+131,Introduction: Core Concepts (Course 27),2
+131,Introduction: Hands-on Practice (Course 27),3
+131,Introduction: Mini Project (Course 27),4
+132,Fundamentals: Overview (Course 27),1
+132,Fundamentals: Core Concepts (Course 27),2
+132,Fundamentals: Hands-on Practice (Course 27),3
+132,Fundamentals: Mini Project (Course 27),4
+133,Intermediate Concepts: Overview (Course 27),1
+133,Intermediate Concepts: Core Concepts (Course 27),2
+133,Intermediate Concepts: Hands-on Practice (Course 27),3
+133,Intermediate Concepts: Mini Project (Course 27),4
+134,Advanced Concepts: Overview (Course 27),1
+134,Advanced Concepts: Core Concepts (Course 27),2
+134,Advanced Concepts: Hands-on Practice (Course 27),3
+134,Advanced Concepts: Mini Project (Course 27),4
+135,Projects & Assessment: Overview (Course 27),1
+135,Projects & Assessment: Core Concepts (Course 27),2
+135,Projects & Assessment: Hands-on Practice (Course 27),3
+135,Projects & Assessment: Mini Project (Course 27),4
+136,Introduction: Overview (Course 28),1
+136,Introduction: Core Concepts (Course 28),2
+136,Introduction: Hands-on Practice (Course 28),3
+136,Introduction: Mini Project (Course 28),4
+137,Fundamentals: Overview (Course 28),1
+137,Fundamentals: Core Concepts (Course 28),2
+137,Fundamentals: Hands-on Practice (Course 28),3
+137,Fundamentals: Mini Project (Course 28),4
+138,Intermediate Concepts: Overview (Course 28),1
+138,Intermediate Concepts: Core Concepts (Course 28),2
+138,Intermediate Concepts: Hands-on Practice (Course 28),3
+138,Intermediate Concepts: Mini Project (Course 28),4
+139,Advanced Concepts: Overview (Course 28),1
+139,Advanced Concepts: Core Concepts (Course 28),2
+139,Advanced Concepts: Hands-on Practice (Course 28),3
+139,Advanced Concepts: Mini Project (Course 28),4
+140,Projects & Assessment: Overview (Course 28),1
+140,Projects & Assessment: Core Concepts (Course 28),2
+140,Projects & Assessment: Hands-on Practice (Course 28),3
+140,Projects & Assessment: Mini Project (Course 28),4
+141,Introduction: Overview (Course 29),1
+141,Introduction: Core Concepts (Course 29),2
+141,Introduction: Hands-on Practice (Course 29),3
+141,Introduction: Mini Project (Course 29),4
+142,Fundamentals: Overview (Course 29),1
+142,Fundamentals: Core Concepts (Course 29),2
+142,Fundamentals: Hands-on Practice (Course 29),3
+142,Fundamentals: Mini Project (Course 29),4
+143,Intermediate Concepts: Overview (Course 29),1
+143,Intermediate Concepts: Core Concepts (Course 29),2
+143,Intermediate Concepts: Hands-on Practice (Course 29),3
+143,Intermediate Concepts: Mini Project (Course 29),4
+144,Advanced Concepts: Overview (Course 29),1
+144,Advanced Concepts: Core Concepts (Course 29),2
+144,Advanced Concepts: Hands-on Practice (Course 29),3
+144,Advanced Concepts: Mini Project (Course 29),4
+145,Projects & Assessment: Overview (Course 29),1
+145,Projects & Assessment: Core Concepts (Course 29),2
+145,Projects & Assessment: Hands-on Practice (Course 29),3
+145,Projects & Assessment: Mini Project (Course 29),4
+146,Introduction: Overview (Course 30),1
+146,Introduction: Core Concepts (Course 30),2
+146,Introduction: Hands-on Practice (Course 30),3
+146,Introduction: Mini Project (Course 30),4
+147,Fundamentals: Overview (Course 30),1
+147,Fundamentals: Core Concepts (Course 30),2
+147,Fundamentals: Hands-on Practice (Course 30),3
+147,Fundamentals: Mini Project (Course 30),4
+148,Intermediate Concepts: Overview (Course 30),1
+148,Intermediate Concepts: Core Concepts (Course 30),2
+148,Intermediate Concepts: Hands-on Practice (Course 30),3
+148,Intermediate Concepts: Mini Project (Course 30),4
+149,Advanced Concepts: Overview (Course 30),1
+149,Advanced Concepts: Core Concepts (Course 30),2
+149,Advanced Concepts: Hands-on Practice (Course 30),3
+149,Advanced Concepts: Mini Project (Course 30),4
+150,Projects & Assessment: Overview (Course 30),1
+150,Projects & Assessment: Core Concepts (Course 30),2
+150,Projects & Assessment: Hands-on Practice (Course 30),3
+150,Projects & Assessment: Mini Project (Course 30),4
+151,Introduction: Overview (Course 31),1
+151,Introduction: Core Concepts (Course 31),2
+151,Introduction: Hands-on Practice (Course 31),3
+151,Introduction: Mini Project (Course 31),4
+152,Fundamentals: Overview (Course 31),1
+152,Fundamentals: Core Concepts (Course 31),2
+152,Fundamentals: Hands-on Practice (Course 31),3
+152,Fundamentals: Mini Project (Course 31),4
+153,Intermediate Concepts: Overview (Course 31),1
+153,Intermediate Concepts: Core Concepts (Course 31),2
+153,Intermediate Concepts: Hands-on Practice (Course 31),3
+153,Intermediate Concepts: Mini Project (Course 31),4
+154,Advanced Concepts: Overview (Course 31),1
+154,Advanced Concepts: Core Concepts (Course 31),2
+154,Advanced Concepts: Hands-on Practice (Course 31),3
+154,Advanced Concepts: Mini Project (Course 31),4
+155,Projects & Assessment: Overview (Course 31),1
+155,Projects & Assessment: Core Concepts (Course 31),2
+155,Projects & Assessment: Hands-on Practice (Course 31),3
+155,Projects & Assessment: Mini Project (Course 31),4
+156,Introduction: Overview (Course 32),1
+156,Introduction: Core Concepts (Course 32),2
+156,Introduction: Hands-on Practice (Course 32),3
+156,Introduction: Mini Project (Course 32),4
+157,Fundamentals: Overview (Course 32),1
+157,Fundamentals: Core Concepts (Course 32),2
+157,Fundamentals: Hands-on Practice (Course 32),3
+157,Fundamentals: Mini Project (Course 32),4
+158,Intermediate Concepts: Overview (Course 32),1
+158,Intermediate Concepts: Core Concepts (Course 32),2
+158,Intermediate Concepts: Hands-on Practice (Course 32),3
+158,Intermediate Concepts: Mini Project (Course 32),4
+159,Advanced Concepts: Overview (Course 32),1
+159,Advanced Concepts: Core Concepts (Course 32),2
+159,Advanced Concepts: Hands-on Practice (Course 32),3
+159,Advanced Concepts: Mini Project (Course 32),4
+160,Projects & Assessment: Overview (Course 32),1
+160,Projects & Assessment: Core Concepts (Course 32),2
+160,Projects & Assessment: Hands-on Practice (Course 32),3
+160,Projects & Assessment: Mini Project (Course 32),4
+161,Introduction: Overview (Course 33),1
+161,Introduction: Core Concepts (Course 33),2
+161,Introduction: Hands-on Practice (Course 33),3
+161,Introduction: Mini Project (Course 33),4
+162,Fundamentals: Overview (Course 33),1
+162,Fundamentals: Core Concepts (Course 33),2
+162,Fundamentals: Hands-on Practice (Course 33),3
+162,Fundamentals: Mini Project (Course 33),4
+163,Intermediate Concepts: Overview (Course 33),1
+163,Intermediate Concepts: Core Concepts (Course 33),2
+163,Intermediate Concepts: Hands-on Practice (Course 33),3
+163,Intermediate Concepts: Mini Project (Course 33),4
+164,Advanced Concepts: Overview (Course 33),1
+164,Advanced Concepts: Core Concepts (Course 33),2
+164,Advanced Concepts: Hands-on Practice (Course 33),3
+164,Advanced Concepts: Mini Project (Course 33),4
+165,Projects & Assessment: Overview (Course 33),1
+165,Projects & Assessment: Core Concepts (Course 33),2
+165,Projects & Assessment: Hands-on Practice (Course 33),3
+165,Projects & Assessment: Mini Project (Course 33),4
+166,Introduction: Overview (Course 34),1
+166,Introduction: Core Concepts (Course 34),2
+166,Introduction: Hands-on Practice (Course 34),3
+166,Introduction: Mini Project (Course 34),4
+167,Fundamentals: Overview (Course 34),1
+167,Fundamentals: Core Concepts (Course 34),2
+167,Fundamentals: Hands-on Practice (Course 34),3
+167,Fundamentals: Mini Project (Course 34),4
+168,Intermediate Concepts: Overview (Course 34),1
+168,Intermediate Concepts: Core Concepts (Course 34),2
+168,Intermediate Concepts: Hands-on Practice (Course 34),3
+168,Intermediate Concepts: Mini Project (Course 34),4
+169,Advanced Concepts: Overview (Course 34),1
+169,Advanced Concepts: Core Concepts (Course 34),2
+169,Advanced Concepts: Hands-on Practice (Course 34),3
+169,Advanced Concepts: Mini Project (Course 34),4
+170,Projects & Assessment: Overview (Course 34),1
+170,Projects & Assessment: Core Concepts (Course 34),2
+170,Projects & Assessment: Hands-on Practice (Course 34),3
+170,Projects & Assessment: Mini Project (Course 34),4
+171,Introduction: Overview (Course 35),1
+171,Introduction: Core Concepts (Course 35),2
+171,Introduction: Hands-on Practice (Course 35),3
+171,Introduction: Mini Project (Course 35),4
+172,Fundamentals: Overview (Course 35),1
+172,Fundamentals: Core Concepts (Course 35),2
+172,Fundamentals: Hands-on Practice (Course 35),3
+172,Fundamentals: Mini Project (Course 35),4
+173,Intermediate Concepts: Overview (Course 35),1
+173,Intermediate Concepts: Core Concepts (Course 35),2
+173,Intermediate Concepts: Hands-on Practice (Course 35),3
+173,Intermediate Concepts: Mini Project (Course 35),4
+174,Advanced Concepts: Overview (Course 35),1
+174,Advanced Concepts: Core Concepts (Course 35),2
+174,Advanced Concepts: Hands-on Practice (Course 35),3
+174,Advanced Concepts: Mini Project (Course 35),4
+175,Projects & Assessment: Overview (Course 35),1
+175,Projects & Assessment: Core Concepts (Course 35),2
+175,Projects & Assessment: Hands-on Practice (Course 35),3
+175,Projects & Assessment: Mini Project (Course 35),4
+176,Introduction: Overview (Course 36),1
+176,Introduction: Core Concepts (Course 36),2
+176,Introduction: Hands-on Practice (Course 36),3
+176,Introduction: Mini Project (Course 36),4
+177,Fundamentals: Overview (Course 36),1
+177,Fundamentals: Core Concepts (Course 36),2
+177,Fundamentals: Hands-on Practice (Course 36),3
+177,Fundamentals: Mini Project (Course 36),4
+178,Intermediate Concepts: Overview (Course 36),1
+178,Intermediate Concepts: Core Concepts (Course 36),2
+178,Intermediate Concepts: Hands-on Practice (Course 36),3
+178,Intermediate Concepts: Mini Project (Course 36),4
+179,Advanced Concepts: Overview (Course 36),1
+179,Advanced Concepts: Core Concepts (Course 36),2
+179,Advanced Concepts: Hands-on Practice (Course 36),3
+179,Advanced Concepts: Mini Project (Course 36),4
+180,Projects & Assessment: Overview (Course 36),1
+180,Projects & Assessment: Core Concepts (Course 36),2
+180,Projects & Assessment: Hands-on Practice (Course 36),3
+180,Projects & Assessment: Mini Project (Course 36),4
+181,Introduction: Overview (Course 37),1
+181,Introduction: Core Concepts (Course 37),2
+181,Introduction: Hands-on Practice (Course 37),3
+181,Introduction: Mini Project (Course 37),4
+182,Fundamentals: Overview (Course 37),1
+182,Fundamentals: Core Concepts (Course 37),2
+182,Fundamentals: Hands-on Practice (Course 37),3
+182,Fundamentals: Mini Project (Course 37),4
+183,Intermediate Concepts: Overview (Course 37),1
+183,Intermediate Concepts: Core Concepts (Course 37),2
+183,Intermediate Concepts: Hands-on Practice (Course 37),3
+183,Intermediate Concepts: Mini Project (Course 37),4
+184,Advanced Concepts: Overview (Course 37),1
+184,Advanced Concepts: Core Concepts (Course 37),2
+184,Advanced Concepts: Hands-on Practice (Course 37),3
+184,Advanced Concepts: Mini Project (Course 37),4
+185,Projects & Assessment: Overview (Course 37),1
+185,Projects & Assessment: Core Concepts (Course 37),2
+185,Projects & Assessment: Hands-on Practice (Course 37),3
+185,Projects & Assessment: Mini Project (Course 37),4
+186,Introduction: Overview (Course 38),1
+186,Introduction: Core Concepts (Course 38),2
+186,Introduction: Hands-on Practice (Course 38),3
+186,Introduction: Mini Project (Course 38),4
+187,Fundamentals: Overview (Course 38),1
+187,Fundamentals: Core Concepts (Course 38),2
+187,Fundamentals: Hands-on Practice (Course 38),3
+187,Fundamentals: Mini Project (Course 38),4
+188,Intermediate Concepts: Overview (Course 38),1
+188,Intermediate Concepts: Core Concepts (Course 38),2
+188,Intermediate Concepts: Hands-on Practice (Course 38),3
+188,Intermediate Concepts: Mini Project (Course 38),4
+189,Advanced Concepts: Overview (Course 38),1
+189,Advanced Concepts: Core Concepts (Course 38),2
+189,Advanced Concepts: Hands-on Practice (Course 38),3
+189,Advanced Concepts: Mini Project (Course 38),4
+190,Projects & Assessment: Overview (Course 38),1
+190,Projects & Assessment: Core Concepts (Course 38),2
+190,Projects & Assessment: Hands-on Practice (Course 38),3
+190,Projects & Assessment: Mini Project (Course 38),4
+191,Introduction: Overview (Course 39),1
+191,Introduction: Core Concepts (Course 39),2
+191,Introduction: Hands-on Practice (Course 39),3
+191,Introduction: Mini Project (Course 39),4
+192,Fundamentals: Overview (Course 39),1
+192,Fundamentals: Core Concepts (Course 39),2
+192,Fundamentals: Hands-on Practice (Course 39),3
+192,Fundamentals: Mini Project (Course 39),4
+193,Intermediate Concepts: Overview (Course 39),1
+193,Intermediate Concepts: Core Concepts (Course 39),2
+193,Intermediate Concepts: Hands-on Practice (Course 39),3
+193,Intermediate Concepts: Mini Project (Course 39),4
+194,Advanced Concepts: Overview (Course 39),1
+194,Advanced Concepts: Core Concepts (Course 39),2
+194,Advanced Concepts: Hands-on Practice (Course 39),3
+194,Advanced Concepts: Mini Project (Course 39),4
+195,Projects & Assessment: Overview (Course 39),1
+195,Projects & Assessment: Core Concepts (Course 39),2
+195,Projects & Assessment: Hands-on Practice (Course 39),3
+195,Projects & Assessment: Mini Project (Course 39),4
+196,Introduction: Overview (Course 40),1
+196,Introduction: Core Concepts (Course 40),2
+196,Introduction: Hands-on Practice (Course 40),3
+196,Introduction: Mini Project (Course 40),4
+197,Fundamentals: Overview (Course 40),1
+197,Fundamentals: Core Concepts (Course 40),2
+197,Fundamentals: Hands-on Practice (Course 40),3
+197,Fundamentals: Mini Project (Course 40),4
+198,Intermediate Concepts: Overview (Course 40),1
+198,Intermediate Concepts: Core Concepts (Course 40),2
+198,Intermediate Concepts: Hands-on Practice (Course 40),3
+198,Intermediate Concepts: Mini Project (Course 40),4
+199,Advanced Concepts: Overview (Course 40),1
+199,Advanced Concepts: Core Concepts (Course 40),2
+199,Advanced Concepts: Hands-on Practice (Course 40),3
+199,Advanced Concepts: Mini Project (Course 40),4
+200,Projects & Assessment: Overview (Course 40),1
+200,Projects & Assessment: Core Concepts (Course 40),2
+200,Projects & Assessment: Hands-on Practice (Course 40),3
+200,Projects & Assessment: Mini Project (Course 40),4
+201,Introduction: Overview (Course 41),1
+201,Introduction: Core Concepts (Course 41),2
+201,Introduction: Hands-on Practice (Course 41),3
+201,Introduction: Mini Project (Course 41),4
+202,Fundamentals: Overview (Course 41),1
+202,Fundamentals: Core Concepts (Course 41),2
+202,Fundamentals: Hands-on Practice (Course 41),3
+202,Fundamentals: Mini Project (Course 41),4
+203,Intermediate Concepts: Overview (Course 41),1
+203,Intermediate Concepts: Core Concepts (Course 41),2
+203,Intermediate Concepts: Hands-on Practice (Course 41),3
+203,Intermediate Concepts: Mini Project (Course 41),4
+204,Advanced Concepts: Overview (Course 41),1
+204,Advanced Concepts: Core Concepts (Course 41),2
+204,Advanced Concepts: Hands-on Practice (Course 41),3
+204,Advanced Concepts: Mini Project (Course 41),4
+205,Projects & Assessment: Overview (Course 41),1
+205,Projects & Assessment: Core Concepts (Course 41),2
+205,Projects & Assessment: Hands-on Practice (Course 41),3
+205,Projects & Assessment: Mini Project (Course 41),4
+206,Introduction: Overview (Course 42),1
+206,Introduction: Core Concepts (Course 42),2
+206,Introduction: Hands-on Practice (Course 42),3
+206,Introduction: Mini Project (Course 42),4
+207,Fundamentals: Overview (Course 42),1
+207,Fundamentals: Core Concepts (Course 42),2
+207,Fundamentals: Hands-on Practice (Course 42),3
+207,Fundamentals: Mini Project (Course 42),4
+208,Intermediate Concepts: Overview (Course 42),1
+208,Intermediate Concepts: Core Concepts (Course 42),2
+208,Intermediate Concepts: Hands-on Practice (Course 42),3
+208,Intermediate Concepts: Mini Project (Course 42),4
+209,Advanced Concepts: Overview (Course 42),1
+209,Advanced Concepts: Core Concepts (Course 42),2
+209,Advanced Concepts: Hands-on Practice (Course 42),3
+209,Advanced Concepts: Mini Project (Course 42),4
+210,Projects & Assessment: Overview (Course 42),1
+210,Projects & Assessment: Core Concepts (Course 42),2
+210,Projects & Assessment: Hands-on Practice (Course 42),3
+210,Projects & Assessment: Mini Project (Course 42),4
+211,Introduction: Overview (Course 43),1
+211,Introduction: Core Concepts (Course 43),2
+211,Introduction: Hands-on Practice (Course 43),3
+211,Introduction: Mini Project (Course 43),4
+212,Fundamentals: Overview (Course 43),1
+212,Fundamentals: Core Concepts (Course 43),2
+212,Fundamentals: Hands-on Practice (Course 43),3
+212,Fundamentals: Mini Project (Course 43),4
+213,Intermediate Concepts: Overview (Course 43),1
+213,Intermediate Concepts: Core Concepts (Course 43),2
+213,Intermediate Concepts: Hands-on Practice (Course 43),3
+213,Intermediate Concepts: Mini Project (Course 43),4
+214,Advanced Concepts: Overview (Course 43),1
+214,Advanced Concepts: Core Concepts (Course 43),2
+214,Advanced Concepts: Hands-on Practice (Course 43),3
+214,Advanced Concepts: Mini Project (Course 43),4
+215,Projects & Assessment: Overview (Course 43),1
+215,Projects & Assessment: Core Concepts (Course 43),2
+215,Projects & Assessment: Hands-on Practice (Course 43),3
+215,Projects & Assessment: Mini Project (Course 43),4
+216,Introduction: Overview (Course 44),1
+216,Introduction: Core Concepts (Course 44),2
+216,Introduction: Hands-on Practice (Course 44),3
+216,Introduction: Mini Project (Course 44),4
+217,Fundamentals: Overview (Course 44),1
+217,Fundamentals: Core Concepts (Course 44),2
+217,Fundamentals: Hands-on Practice (Course 44),3
+217,Fundamentals: Mini Project (Course 44),4
+218,Intermediate Concepts: Overview (Course 44),1
+218,Intermediate Concepts: Core Concepts (Course 44),2
+218,Intermediate Concepts: Hands-on Practice (Course 44),3
+218,Intermediate Concepts: Mini Project (Course 44),4
+219,Advanced Concepts: Overview (Course 44),1
+219,Advanced Concepts: Core Concepts (Course 44),2
+219,Advanced Concepts: Hands-on Practice (Course 44),3
+219,Advanced Concepts: Mini Project (Course 44),4
+220,Projects & Assessment: Overview (Course 44),1
+220,Projects & Assessment: Core Concepts (Course 44),2
+220,Projects & Assessment: Hands-on Practice (Course 44),3
+220,Projects & Assessment: Mini Project (Course 44),4
+221,Introduction: Overview (Course 45),1
+221,Introduction: Core Concepts (Course 45),2
+221,Introduction: Hands-on Practice (Course 45),3
+221,Introduction: Mini Project (Course 45),4
+222,Fundamentals: Overview (Course 45),1
+222,Fundamentals: Core Concepts (Course 45),2
+222,Fundamentals: Hands-on Practice (Course 45),3
+222,Fundamentals: Mini Project (Course 45),4
+223,Intermediate Concepts: Overview (Course 45),1
+223,Intermediate Concepts: Core Concepts (Course 45),2
+223,Intermediate Concepts: Hands-on Practice (Course 45),3
+223,Intermediate Concepts: Mini Project (Course 45),4
+224,Advanced Concepts: Overview (Course 45),1
+224,Advanced Concepts: Core Concepts (Course 45),2
+224,Advanced Concepts: Hands-on Practice (Course 45),3
+224,Advanced Concepts: Mini Project (Course 45),4
+225,Projects & Assessment: Overview (Course 45),1
+225,Projects & Assessment: Core Concepts (Course 45),2
+225,Projects & Assessment: Hands-on Practice (Course 45),3
+225,Projects & Assessment: Mini Project (Course 45),4
+226,Introduction: Overview (Course 46),1
+226,Introduction: Core Concepts (Course 46),2
+226,Introduction: Hands-on Practice (Course 46),3
+226,Introduction: Mini Project (Course 46),4
+227,Fundamentals: Overview (Course 46),1
+227,Fundamentals: Core Concepts (Course 46),2
+227,Fundamentals: Hands-on Practice (Course 46),3
+227,Fundamentals: Mini Project (Course 46),4
+228,Intermediate Concepts: Overview (Course 46),1
+228,Intermediate Concepts: Core Concepts (Course 46),2
+228,Intermediate Concepts: Hands-on Practice (Course 46),3
+228,Intermediate Concepts: Mini Project (Course 46),4
+229,Advanced Concepts: Overview (Course 46),1
+229,Advanced Concepts: Core Concepts (Course 46),2
+229,Advanced Concepts: Hands-on Practice (Course 46),3
+229,Advanced Concepts: Mini Project (Course 46),4
+230,Projects & Assessment: Overview (Course 46),1
+230,Projects & Assessment: Core Concepts (Course 46),2
+230,Projects & Assessment: Hands-on Practice (Course 46),3
+230,Projects & Assessment: Mini Project (Course 46),4
+231,Introduction: Overview (Course 47),1
+231,Introduction: Core Concepts (Course 47),2
+231,Introduction: Hands-on Practice (Course 47),3
+231,Introduction: Mini Project (Course 47),4
+232,Fundamentals: Overview (Course 47),1
+232,Fundamentals: Core Concepts (Course 47),2
+232,Fundamentals: Hands-on Practice (Course 47),3
+232,Fundamentals: Mini Project (Course 47),4
+233,Intermediate Concepts: Overview (Course 47),1
+233,Intermediate Concepts: Core Concepts (Course 47),2
+233,Intermediate Concepts: Hands-on Practice (Course 47),3
+233,Intermediate Concepts: Mini Project (Course 47),4
+234,Advanced Concepts: Overview (Course 47),1
+234,Advanced Concepts: Core Concepts (Course 47),2
+234,Advanced Concepts: Hands-on Practice (Course 47),3
+234,Advanced Concepts: Mini Project (Course 47),4
+235,Projects & Assessment: Overview (Course 47),1
+235,Projects & Assessment: Core Concepts (Course 47),2
+235,Projects & Assessment: Hands-on Practice (Course 47),3
+235,Projects & Assessment: Mini Project (Course 47),4
+236,Introduction: Overview (Course 48),1
+236,Introduction: Core Concepts (Course 48),2
+236,Introduction: Hands-on Practice (Course 48),3
+236,Introduction: Mini Project (Course 48),4
+237,Fundamentals: Overview (Course 48),1
+237,Fundamentals: Core Concepts (Course 48),2
+237,Fundamentals: Hands-on Practice (Course 48),3
+237,Fundamentals: Mini Project (Course 48),4
+238,Intermediate Concepts: Overview (Course 48),1
+238,Intermediate Concepts: Core Concepts (Course 48),2
+238,Intermediate Concepts: Hands-on Practice (Course 48),3
+238,Intermediate Concepts: Mini Project (Course 48),4
+239,Advanced Concepts: Overview (Course 48),1
+239,Advanced Concepts: Core Concepts (Course 48),2
+239,Advanced Concepts: Hands-on Practice (Course 48),3
+239,Advanced Concepts: Mini Project (Course 48),4
+240,Projects & Assessment: Overview (Course 48),1
+240,Projects & Assessment: Core Concepts (Course 48),2
+240,Projects & Assessment: Hands-on Practice (Course 48),3
+240,Projects & Assessment: Mini Project (Course 48),4
+241,Introduction: Overview (Course 49),1
+241,Introduction: Core Concepts (Course 49),2
+241,Introduction: Hands-on Practice (Course 49),3
+241,Introduction: Mini Project (Course 49),4
+242,Fundamentals: Overview (Course 49),1
+242,Fundamentals: Core Concepts (Course 49),2
+242,Fundamentals: Hands-on Practice (Course 49),3
+242,Fundamentals: Mini Project (Course 49),4
+243,Intermediate Concepts: Overview (Course 49),1
+243,Intermediate Concepts: Core Concepts (Course 49),2
+243,Intermediate Concepts: Hands-on Practice (Course 49),3
+243,Intermediate Concepts: Mini Project (Course 49),4
+244,Advanced Concepts: Overview (Course 49),1
+244,Advanced Concepts: Core Concepts (Course 49),2
+244,Advanced Concepts: Hands-on Practice (Course 49),3
+244,Advanced Concepts: Mini Project (Course 49),4
+245,Projects & Assessment: Overview (Course 49),1
+245,Projects & Assessment: Core Concepts (Course 49),2
+245,Projects & Assessment: Hands-on Practice (Course 49),3
+245,Projects & Assessment: Mini Project (Course 49),4
+246,Introduction: Overview (Course 50),1
+246,Introduction: Core Concepts (Course 50),2
+246,Introduction: Hands-on Practice (Course 50),3
+246,Introduction: Mini Project (Course 50),4
+247,Fundamentals: Overview (Course 50),1
+247,Fundamentals: Core Concepts (Course 50),2
+247,Fundamentals: Hands-on Practice (Course 50),3
+247,Fundamentals: Mini Project (Course 50),4
+248,Intermediate Concepts: Overview (Course 50),1
+248,Intermediate Concepts: Core Concepts (Course 50),2
+248,Intermediate Concepts: Hands-on Practice (Course 50),3
+248,Intermediate Concepts: Mini Project (Course 50),4
+249,Advanced Concepts: Overview (Course 50),1
+249,Advanced Concepts: Core Concepts (Course 50),2
+249,Advanced Concepts: Hands-on Practice (Course 50),3
+249,Advanced Concepts: Mini Project (Course 50),4
+250,Projects & Assessment: Overview (Course 50),1
+250,Projects & Assessment: Core Concepts (Course 50),2
+250,Projects & Assessment: Hands-on Practice (Course 50),3
+250,Projects & Assessment: Mini Project (Course 50),4
+251,Introduction: Overview (Course 51),1
+251,Introduction: Core Concepts (Course 51),2
+251,Introduction: Hands-on Practice (Course 51),3
+251,Introduction: Mini Project (Course 51),4
+252,Fundamentals: Overview (Course 51),1
+252,Fundamentals: Core Concepts (Course 51),2
+252,Fundamentals: Hands-on Practice (Course 51),3
+252,Fundamentals: Mini Project (Course 51),4
+253,Intermediate Concepts: Overview (Course 51),1
+253,Intermediate Concepts: Core Concepts (Course 51),2
+253,Intermediate Concepts: Hands-on Practice (Course 51),3
+253,Intermediate Concepts: Mini Project (Course 51),4
+254,Advanced Concepts: Overview (Course 51),1
+254,Advanced Concepts: Core Concepts (Course 51),2
+254,Advanced Concepts: Hands-on Practice (Course 51),3
+254,Advanced Concepts: Mini Project (Course 51),4
+255,Projects & Assessment: Overview (Course 51),1
+255,Projects & Assessment: Core Concepts (Course 51),2
+255,Projects & Assessment: Hands-on Practice (Course 51),3
+255,Projects & Assessment: Mini Project (Course 51),4
+256,Introduction: Overview (Course 52),1
+256,Introduction: Core Concepts (Course 52),2
+256,Introduction: Hands-on Practice (Course 52),3
+256,Introduction: Mini Project (Course 52),4
+257,Fundamentals: Overview (Course 52),1
+257,Fundamentals: Core Concepts (Course 52),2
+257,Fundamentals: Hands-on Practice (Course 52),3
+257,Fundamentals: Mini Project (Course 52),4
+258,Intermediate Concepts: Overview (Course 52),1
+258,Intermediate Concepts: Core Concepts (Course 52),2
+258,Intermediate Concepts: Hands-on Practice (Course 52),3
+258,Intermediate Concepts: Mini Project (Course 52),4
+259,Advanced Concepts: Overview (Course 52),1
+259,Advanced Concepts: Core Concepts (Course 52),2
+259,Advanced Concepts: Hands-on Practice (Course 52),3
+259,Advanced Concepts: Mini Project (Course 52),4
+260,Projects & Assessment: Overview (Course 52),1
+260,Projects & Assessment: Core Concepts (Course 52),2
+260,Projects & Assessment: Hands-on Practice (Course 52),3
+260,Projects & Assessment: Mini Project (Course 52),4
+261,Introduction: Overview (Course 53),1
+261,Introduction: Core Concepts (Course 53),2
+261,Introduction: Hands-on Practice (Course 53),3
+261,Introduction: Mini Project (Course 53),4
+262,Fundamentals: Overview (Course 53),1
+262,Fundamentals: Core Concepts (Course 53),2
+262,Fundamentals: Hands-on Practice (Course 53),3
+262,Fundamentals: Mini Project (Course 53),4
+263,Intermediate Concepts: Overview (Course 53),1
+263,Intermediate Concepts: Core Concepts (Course 53),2
+263,Intermediate Concepts: Hands-on Practice (Course 53),3
+263,Intermediate Concepts: Mini Project (Course 53),4
+264,Advanced Concepts: Overview (Course 53),1
+264,Advanced Concepts: Core Concepts (Course 53),2
+264,Advanced Concepts: Hands-on Practice (Course 53),3
+264,Advanced Concepts: Mini Project (Course 53),4
+265,Projects & Assessment: Overview (Course 53),1
+265,Projects & Assessment: Core Concepts (Course 53),2
+265,Projects & Assessment: Hands-on Practice (Course 53),3
+265,Projects & Assessment: Mini Project (Course 53),4
+266,Introduction: Overview (Course 54),1
+266,Introduction: Core Concepts (Course 54),2
+266,Introduction: Hands-on Practice (Course 54),3
+266,Introduction: Mini Project (Course 54),4
+267,Fundamentals: Overview (Course 54),1
+267,Fundamentals: Core Concepts (Course 54),2
+267,Fundamentals: Hands-on Practice (Course 54),3
+267,Fundamentals: Mini Project (Course 54),4
+268,Intermediate Concepts: Overview (Course 54),1
+268,Intermediate Concepts: Core Concepts (Course 54),2
+268,Intermediate Concepts: Hands-on Practice (Course 54),3
+268,Intermediate Concepts: Mini Project (Course 54),4
+269,Advanced Concepts: Overview (Course 54),1
+269,Advanced Concepts: Core Concepts (Course 54),2
+269,Advanced Concepts: Hands-on Practice (Course 54),3
+269,Advanced Concepts: Mini Project (Course 54),4
+270,Projects & Assessment: Overview (Course 54),1
+270,Projects & Assessment: Core Concepts (Course 54),2
+270,Projects & Assessment: Hands-on Practice (Course 54),3
+270,Projects & Assessment: Mini Project (Course 54),4
+271,Introduction: Overview (Course 55),1
+271,Introduction: Core Concepts (Course 55),2
+271,Introduction: Hands-on Practice (Course 55),3
+271,Introduction: Mini Project (Course 55),4
+272,Fundamentals: Overview (Course 55),1
+272,Fundamentals: Core Concepts (Course 55),2
+272,Fundamentals: Hands-on Practice (Course 55),3
+272,Fundamentals: Mini Project (Course 55),4
+273,Intermediate Concepts: Overview (Course 55),1
+273,Intermediate Concepts: Core Concepts (Course 55),2
+273,Intermediate Concepts: Hands-on Practice (Course 55),3
+273,Intermediate Concepts: Mini Project (Course 55),4
+274,Advanced Concepts: Overview (Course 55),1
+274,Advanced Concepts: Core Concepts (Course 55),2
+274,Advanced Concepts: Hands-on Practice (Course 55),3
+274,Advanced Concepts: Mini Project (Course 55),4
+275,Projects & Assessment: Overview (Course 55),1
+275,Projects & Assessment: Core Concepts (Course 55),2
+275,Projects & Assessment: Hands-on Practice (Course 55),3
+275,Projects & Assessment: Mini Project (Course 55),4
+276,Introduction: Overview (Course 56),1
+276,Introduction: Core Concepts (Course 56),2
+276,Introduction: Hands-on Practice (Course 56),3
+276,Introduction: Mini Project (Course 56),4
+277,Fundamentals: Overview (Course 56),1
+277,Fundamentals: Core Concepts (Course 56),2
+277,Fundamentals: Hands-on Practice (Course 56),3
+277,Fundamentals: Mini Project (Course 56),4
+278,Intermediate Concepts: Overview (Course 56),1
+278,Intermediate Concepts: Core Concepts (Course 56),2
+278,Intermediate Concepts: Hands-on Practice (Course 56),3
+278,Intermediate Concepts: Mini Project (Course 56),4
+279,Advanced Concepts: Overview (Course 56),1
+279,Advanced Concepts: Core Concepts (Course 56),2
+279,Advanced Concepts: Hands-on Practice (Course 56),3
+279,Advanced Concepts: Mini Project (Course 56),4
+280,Projects & Assessment: Overview (Course 56),1
+280,Projects & Assessment: Core Concepts (Course 56),2
+280,Projects & Assessment: Hands-on Practice (Course 56),3
+280,Projects & Assessment: Mini Project (Course 56),4
+281,Introduction: Overview (Course 57),1
+281,Introduction: Core Concepts (Course 57),2
+281,Introduction: Hands-on Practice (Course 57),3
+281,Introduction: Mini Project (Course 57),4
+282,Fundamentals: Overview (Course 57),1
+282,Fundamentals: Core Concepts (Course 57),2
+282,Fundamentals: Hands-on Practice (Course 57),3
+282,Fundamentals: Mini Project (Course 57),4
+283,Intermediate Concepts: Overview (Course 57),1
+283,Intermediate Concepts: Core Concepts (Course 57),2
+283,Intermediate Concepts: Hands-on Practice (Course 57),3
+283,Intermediate Concepts: Mini Project (Course 57),4
+284,Advanced Concepts: Overview (Course 57),1
+284,Advanced Concepts: Core Concepts (Course 57),2
+284,Advanced Concepts: Hands-on Practice (Course 57),3
+284,Advanced Concepts: Mini Project (Course 57),4
+285,Projects & Assessment: Overview (Course 57),1
+285,Projects & Assessment: Core Concepts (Course 57),2
+285,Projects & Assessment: Hands-on Practice (Course 57),3
+285,Projects & Assessment: Mini Project (Course 57),4
+286,Introduction: Overview (Course 58),1
+286,Introduction: Core Concepts (Course 58),2
+286,Introduction: Hands-on Practice (Course 58),3
+286,Introduction: Mini Project (Course 58),4
+287,Fundamentals: Overview (Course 58),1
+287,Fundamentals: Core Concepts (Course 58),2
+287,Fundamentals: Hands-on Practice (Course 58),3
+287,Fundamentals: Mini Project (Course 58),4
+288,Intermediate Concepts: Overview (Course 58),1
+288,Intermediate Concepts: Core Concepts (Course 58),2
+288,Intermediate Concepts: Hands-on Practice (Course 58),3
+288,Intermediate Concepts: Mini Project (Course 58),4
+289,Advanced Concepts: Overview (Course 58),1
+289,Advanced Concepts: Core Concepts (Course 58),2
+289,Advanced Concepts: Hands-on Practice (Course 58),3
+289,Advanced Concepts: Mini Project (Course 58),4
+290,Projects & Assessment: Overview (Course 58),1
+290,Projects & Assessment: Core Concepts (Course 58),2
+290,Projects & Assessment: Hands-on Practice (Course 58),3
+290,Projects & Assessment: Mini Project (Course 58),4
+291,Introduction: Overview (Course 59),1
+291,Introduction: Core Concepts (Course 59),2
+291,Introduction: Hands-on Practice (Course 59),3
+291,Introduction: Mini Project (Course 59),4
+292,Fundamentals: Overview (Course 59),1
+292,Fundamentals: Core Concepts (Course 59),2
+292,Fundamentals: Hands-on Practice (Course 59),3
+292,Fundamentals: Mini Project (Course 59),4
+293,Intermediate Concepts: Overview (Course 59),1
+293,Intermediate Concepts: Core Concepts (Course 59),2
+293,Intermediate Concepts: Hands-on Practice (Course 59),3
+293,Intermediate Concepts: Mini Project (Course 59),4
+294,Advanced Concepts: Overview (Course 59),1
+294,Advanced Concepts: Core Concepts (Course 59),2
+294,Advanced Concepts: Hands-on Practice (Course 59),3
+294,Advanced Concepts: Mini Project (Course 59),4
+295,Projects & Assessment: Overview (Course 59),1
+295,Projects & Assessment: Core Concepts (Course 59),2
+295,Projects & Assessment: Hands-on Practice (Course 59),3
+295,Projects & Assessment: Mini Project (Course 59),4
+296,Introduction: Overview (Course 60),1
+296,Introduction: Core Concepts (Course 60),2
+296,Introduction: Hands-on Practice (Course 60),3
+296,Introduction: Mini Project (Course 60),4
+297,Fundamentals: Overview (Course 60),1
+297,Fundamentals: Core Concepts (Course 60),2
+297,Fundamentals: Hands-on Practice (Course 60),3
+297,Fundamentals: Mini Project (Course 60),4
+298,Intermediate Concepts: Overview (Course 60),1
+298,Intermediate Concepts: Core Concepts (Course 60),2
+298,Intermediate Concepts: Hands-on Practice (Course 60),3
+298,Intermediate Concepts: Mini Project (Course 60),4
+299,Advanced Concepts: Overview (Course 60),1
+299,Advanced Concepts: Core Concepts (Course 60),2
+299,Advanced Concepts: Hands-on Practice (Course 60),3
+299,Advanced Concepts: Mini Project (Course 60),4
+300,Projects & Assessment: Overview (Course 60),1
+300,Projects & Assessment: Core Concepts (Course 60),2
+300,Projects & Assessment: Hands-on Practice (Course 60),3
+300,Projects & Assessment: Mini Project (Course 60),4
+301,Introduction: Overview (Course 61),1
+301,Introduction: Core Concepts (Course 61),2
+301,Introduction: Hands-on Practice (Course 61),3
+301,Introduction: Mini Project (Course 61),4
+302,Fundamentals: Overview (Course 61),1
+302,Fundamentals: Core Concepts (Course 61),2
+302,Fundamentals: Hands-on Practice (Course 61),3
+302,Fundamentals: Mini Project (Course 61),4
+303,Intermediate Concepts: Overview (Course 61),1
+303,Intermediate Concepts: Core Concepts (Course 61),2
+303,Intermediate Concepts: Hands-on Practice (Course 61),3
+303,Intermediate Concepts: Mini Project (Course 61),4
+304,Advanced Concepts: Overview (Course 61),1
+304,Advanced Concepts: Core Concepts (Course 61),2
+304,Advanced Concepts: Hands-on Practice (Course 61),3
+304,Advanced Concepts: Mini Project (Course 61),4
+305,Projects & Assessment: Overview (Course 61),1
+305,Projects & Assessment: Core Concepts (Course 61),2
+305,Projects & Assessment: Hands-on Practice (Course 61),3
+305,Projects & Assessment: Mini Project (Course 61),4
+306,Introduction: Overview (Course 62),1
+306,Introduction: Core Concepts (Course 62),2
+306,Introduction: Hands-on Practice (Course 62),3
+306,Introduction: Mini Project (Course 62),4
+307,Fundamentals: Overview (Course 62),1
+307,Fundamentals: Core Concepts (Course 62),2
+307,Fundamentals: Hands-on Practice (Course 62),3
+307,Fundamentals: Mini Project (Course 62),4
+308,Intermediate Concepts: Overview (Course 62),1
+308,Intermediate Concepts: Core Concepts (Course 62),2
+308,Intermediate Concepts: Hands-on Practice (Course 62),3
+308,Intermediate Concepts: Mini Project (Course 62),4
+309,Advanced Concepts: Overview (Course 62),1
+309,Advanced Concepts: Core Concepts (Course 62),2
+309,Advanced Concepts: Hands-on Practice (Course 62),3
+309,Advanced Concepts: Mini Project (Course 62),4
+310,Projects & Assessment: Overview (Course 62),1
+310,Projects & Assessment: Core Concepts (Course 62),2
+310,Projects & Assessment: Hands-on Practice (Course 62),3
+310,Projects & Assessment: Mini Project (Course 62),4
+311,Introduction: Overview (Course 63),1
+311,Introduction: Core Concepts (Course 63),2
+311,Introduction: Hands-on Practice (Course 63),3
+311,Introduction: Mini Project (Course 63),4
+312,Fundamentals: Overview (Course 63),1
+312,Fundamentals: Core Concepts (Course 63),2
+312,Fundamentals: Hands-on Practice (Course 63),3
+312,Fundamentals: Mini Project (Course 63),4
+313,Intermediate Concepts: Overview (Course 63),1
+313,Intermediate Concepts: Core Concepts (Course 63),2
+313,Intermediate Concepts: Hands-on Practice (Course 63),3
+313,Intermediate Concepts: Mini Project (Course 63),4
+314,Advanced Concepts: Overview (Course 63),1
+314,Advanced Concepts: Core Concepts (Course 63),2
+314,Advanced Concepts: Hands-on Practice (Course 63),3
+314,Advanced Concepts: Mini Project (Course 63),4
+315,Projects & Assessment: Overview (Course 63),1
+315,Projects & Assessment: Core Concepts (Course 63),2
+315,Projects & Assessment: Hands-on Practice (Course 63),3
+315,Projects & Assessment: Mini Project (Course 63),4
+316,Introduction: Overview (Course 64),1
+316,Introduction: Core Concepts (Course 64),2
+316,Introduction: Hands-on Practice (Course 64),3
+316,Introduction: Mini Project (Course 64),4
+317,Fundamentals: Overview (Course 64),1
+317,Fundamentals: Core Concepts (Course 64),2
+317,Fundamentals: Hands-on Practice (Course 64),3
+317,Fundamentals: Mini Project (Course 64),4
+318,Intermediate Concepts: Overview (Course 64),1
+318,Intermediate Concepts: Core Concepts (Course 64),2
+318,Intermediate Concepts: Hands-on Practice (Course 64),3
+318,Intermediate Concepts: Mini Project (Course 64),4
+319,Advanced Concepts: Overview (Course 64),1
+319,Advanced Concepts: Core Concepts (Course 64),2
+319,Advanced Concepts: Hands-on Practice (Course 64),3
+319,Advanced Concepts: Mini Project (Course 64),4
+320,Projects & Assessment: Overview (Course 64),1
+320,Projects & Assessment: Core Concepts (Course 64),2
+320,Projects & Assessment: Hands-on Practice (Course 64),3
+320,Projects & Assessment: Mini Project (Course 64),4
+321,Introduction: Overview (Course 65),1
+321,Introduction: Core Concepts (Course 65),2
+321,Introduction: Hands-on Practice (Course 65),3
+321,Introduction: Mini Project (Course 65),4
+322,Fundamentals: Overview (Course 65),1
+322,Fundamentals: Core Concepts (Course 65),2
+322,Fundamentals: Hands-on Practice (Course 65),3
+322,Fundamentals: Mini Project (Course 65),4
+323,Intermediate Concepts: Overview (Course 65),1
+323,Intermediate Concepts: Core Concepts (Course 65),2
+323,Intermediate Concepts: Hands-on Practice (Course 65),3
+323,Intermediate Concepts: Mini Project (Course 65),4
+324,Advanced Concepts: Overview (Course 65),1
+324,Advanced Concepts: Core Concepts (Course 65),2
+324,Advanced Concepts: Hands-on Practice (Course 65),3
+324,Advanced Concepts: Mini Project (Course 65),4
+325,Projects & Assessment: Overview (Course 65),1
+325,Projects & Assessment: Core Concepts (Course 65),2
+325,Projects & Assessment: Hands-on Practice (Course 65),3
+325,Projects & Assessment: Mini Project (Course 65),4
+326,Introduction: Overview (Course 66),1
+326,Introduction: Core Concepts (Course 66),2
+326,Introduction: Hands-on Practice (Course 66),3
+326,Introduction: Mini Project (Course 66),4
+327,Fundamentals: Overview (Course 66),1
+327,Fundamentals: Core Concepts (Course 66),2
+327,Fundamentals: Hands-on Practice (Course 66),3
+327,Fundamentals: Mini Project (Course 66),4
+328,Intermediate Concepts: Overview (Course 66),1
+328,Intermediate Concepts: Core Concepts (Course 66),2
+328,Intermediate Concepts: Hands-on Practice (Course 66),3
+328,Intermediate Concepts: Mini Project (Course 66),4
+329,Advanced Concepts: Overview (Course 66),1
+329,Advanced Concepts: Core Concepts (Course 66),2
+329,Advanced Concepts: Hands-on Practice (Course 66),3
+329,Advanced Concepts: Mini Project (Course 66),4
+330,Projects & Assessment: Overview (Course 66),1
+330,Projects & Assessment: Core Concepts (Course 66),2
+330,Projects & Assessment: Hands-on Practice (Course 66),3
+330,Projects & Assessment: Mini Project (Course 66),4
+331,Introduction: Overview (Course 67),1
+331,Introduction: Core Concepts (Course 67),2
+331,Introduction: Hands-on Practice (Course 67),3
+331,Introduction: Mini Project (Course 67),4
+332,Fundamentals: Overview (Course 67),1
+332,Fundamentals: Core Concepts (Course 67),2
+332,Fundamentals: Hands-on Practice (Course 67),3
+332,Fundamentals: Mini Project (Course 67),4
+333,Intermediate Concepts: Overview (Course 67),1
+333,Intermediate Concepts: Core Concepts (Course 67),2
+333,Intermediate Concepts: Hands-on Practice (Course 67),3
+333,Intermediate Concepts: Mini Project (Course 67),4
+334,Advanced Concepts: Overview (Course 67),1
+334,Advanced Concepts: Core Concepts (Course 67),2
+334,Advanced Concepts: Hands-on Practice (Course 67),3
+334,Advanced Concepts: Mini Project (Course 67),4
+335,Projects & Assessment: Overview (Course 67),1
+335,Projects & Assessment: Core Concepts (Course 67),2
+335,Projects & Assessment: Hands-on Practice (Course 67),3
+335,Projects & Assessment: Mini Project (Course 67),4
+336,Introduction: Overview (Course 68),1
+336,Introduction: Core Concepts (Course 68),2
+336,Introduction: Hands-on Practice (Course 68),3
+336,Introduction: Mini Project (Course 68),4
+337,Fundamentals: Overview (Course 68),1
+337,Fundamentals: Core Concepts (Course 68),2
+337,Fundamentals: Hands-on Practice (Course 68),3
+337,Fundamentals: Mini Project (Course 68),4
+338,Intermediate Concepts: Overview (Course 68),1
+338,Intermediate Concepts: Core Concepts (Course 68),2
+338,Intermediate Concepts: Hands-on Practice (Course 68),3
+338,Intermediate Concepts: Mini Project (Course 68),4
+339,Advanced Concepts: Overview (Course 68),1
+339,Advanced Concepts: Core Concepts (Course 68),2
+339,Advanced Concepts: Hands-on Practice (Course 68),3
+339,Advanced Concepts: Mini Project (Course 68),4
+340,Projects & Assessment: Overview (Course 68),1
+340,Projects & Assessment: Core Concepts (Course 68),2
+340,Projects & Assessment: Hands-on Practice (Course 68),3
+340,Projects & Assessment: Mini Project (Course 68),4
+341,Introduction: Overview (Course 69),1
+341,Introduction: Core Concepts (Course 69),2
+341,Introduction: Hands-on Practice (Course 69),3
+341,Introduction: Mini Project (Course 69),4
+342,Fundamentals: Overview (Course 69),1
+342,Fundamentals: Core Concepts (Course 69),2
+342,Fundamentals: Hands-on Practice (Course 69),3
+342,Fundamentals: Mini Project (Course 69),4
+343,Intermediate Concepts: Overview (Course 69),1
+343,Intermediate Concepts: Core Concepts (Course 69),2
+343,Intermediate Concepts: Hands-on Practice (Course 69),3
+343,Intermediate Concepts: Mini Project (Course 69),4
+344,Advanced Concepts: Overview (Course 69),1
+344,Advanced Concepts: Core Concepts (Course 69),2
+344,Advanced Concepts: Hands-on Practice (Course 69),3
+344,Advanced Concepts: Mini Project (Course 69),4
+345,Projects & Assessment: Overview (Course 69),1
+345,Projects & Assessment: Core Concepts (Course 69),2
+345,Projects & Assessment: Hands-on Practice (Course 69),3
+345,Projects & Assessment: Mini Project (Course 69),4
+346,Introduction: Overview (Course 70),1
+346,Introduction: Core Concepts (Course 70),2
+346,Introduction: Hands-on Practice (Course 70),3
+346,Introduction: Mini Project (Course 70),4
+347,Fundamentals: Overview (Course 70),1
+347,Fundamentals: Core Concepts (Course 70),2
+347,Fundamentals: Hands-on Practice (Course 70),3
+347,Fundamentals: Mini Project (Course 70),4
+348,Intermediate Concepts: Overview (Course 70),1
+348,Intermediate Concepts: Core Concepts (Course 70),2
+348,Intermediate Concepts: Hands-on Practice (Course 70),3
+348,Intermediate Concepts: Mini Project (Course 70),4
+349,Advanced Concepts: Overview (Course 70),1
+349,Advanced Concepts: Core Concepts (Course 70),2
+349,Advanced Concepts: Hands-on Practice (Course 70),3
+349,Advanced Concepts: Mini Project (Course 70),4
+350,Projects & Assessment: Overview (Course 70),1
+350,Projects & Assessment: Core Concepts (Course 70),2
+350,Projects & Assessment: Hands-on Practice (Course 70),3
+350,Projects & Assessment: Mini Project (Course 70),4
+351,Introduction: Overview (Course 71),1
+351,Introduction: Core Concepts (Course 71),2
+351,Introduction: Hands-on Practice (Course 71),3
+351,Introduction: Mini Project (Course 71),4
+352,Fundamentals: Overview (Course 71),1
+352,Fundamentals: Core Concepts (Course 71),2
+352,Fundamentals: Hands-on Practice (Course 71),3
+352,Fundamentals: Mini Project (Course 71),4
+353,Intermediate Concepts: Overview (Course 71),1
+353,Intermediate Concepts: Core Concepts (Course 71),2
+353,Intermediate Concepts: Hands-on Practice (Course 71),3
+353,Intermediate Concepts: Mini Project (Course 71),4
+354,Advanced Concepts: Overview (Course 71),1
+354,Advanced Concepts: Core Concepts (Course 71),2
+354,Advanced Concepts: Hands-on Practice (Course 71),3
+354,Advanced Concepts: Mini Project (Course 71),4
+355,Projects & Assessment: Overview (Course 71),1
+355,Projects & Assessment: Core Concepts (Course 71),2
+355,Projects & Assessment: Hands-on Practice (Course 71),3
+355,Projects & Assessment: Mini Project (Course 71),4
+356,Introduction: Overview (Course 72),1
+356,Introduction: Core Concepts (Course 72),2
+356,Introduction: Hands-on Practice (Course 72),3
+356,Introduction: Mini Project (Course 72),4
+357,Fundamentals: Overview (Course 72),1
+357,Fundamentals: Core Concepts (Course 72),2
+357,Fundamentals: Hands-on Practice (Course 72),3
+357,Fundamentals: Mini Project (Course 72),4
+358,Intermediate Concepts: Overview (Course 72),1
+358,Intermediate Concepts: Core Concepts (Course 72),2
+358,Intermediate Concepts: Hands-on Practice (Course 72),3
+358,Intermediate Concepts: Mini Project (Course 72),4
+359,Advanced Concepts: Overview (Course 72),1
+359,Advanced Concepts: Core Concepts (Course 72),2
+359,Advanced Concepts: Hands-on Practice (Course 72),3
+359,Advanced Concepts: Mini Project (Course 72),4
+360,Projects & Assessment: Overview (Course 72),1
+360,Projects & Assessment: Core Concepts (Course 72),2
+360,Projects & Assessment: Hands-on Practice (Course 72),3
+360,Projects & Assessment: Mini Project (Course 72),4
+361,Introduction: Overview (Course 73),1
+361,Introduction: Core Concepts (Course 73),2
+361,Introduction: Hands-on Practice (Course 73),3
+361,Introduction: Mini Project (Course 73),4
+362,Fundamentals: Overview (Course 73),1
+362,Fundamentals: Core Concepts (Course 73),2
+362,Fundamentals: Hands-on Practice (Course 73),3
+362,Fundamentals: Mini Project (Course 73),4
+363,Intermediate Concepts: Overview (Course 73),1
+363,Intermediate Concepts: Core Concepts (Course 73),2
+363,Intermediate Concepts: Hands-on Practice (Course 73),3
+363,Intermediate Concepts: Mini Project (Course 73),4
+364,Advanced Concepts: Overview (Course 73),1
+364,Advanced Concepts: Core Concepts (Course 73),2
+364,Advanced Concepts: Hands-on Practice (Course 73),3
+364,Advanced Concepts: Mini Project (Course 73),4
+365,Projects & Assessment: Overview (Course 73),1
+365,Projects & Assessment: Core Concepts (Course 73),2
+365,Projects & Assessment: Hands-on Practice (Course 73),3
+365,Projects & Assessment: Mini Project (Course 73),4
+366,Introduction: Overview (Course 74),1
+366,Introduction: Core Concepts (Course 74),2
+366,Introduction: Hands-on Practice (Course 74),3
+366,Introduction: Mini Project (Course 74),4
+367,Fundamentals: Overview (Course 74),1
+367,Fundamentals: Core Concepts (Course 74),2
+367,Fundamentals: Hands-on Practice (Course 74),3
+367,Fundamentals: Mini Project (Course 74),4
+368,Intermediate Concepts: Overview (Course 74),1
+368,Intermediate Concepts: Core Concepts (Course 74),2
+368,Intermediate Concepts: Hands-on Practice (Course 74),3
+368,Intermediate Concepts: Mini Project (Course 74),4
+369,Advanced Concepts: Overview (Course 74),1
+369,Advanced Concepts: Core Concepts (Course 74),2
+369,Advanced Concepts: Hands-on Practice (Course 74),3
+369,Advanced Concepts: Mini Project (Course 74),4
+370,Projects & Assessment: Overview (Course 74),1
+370,Projects & Assessment: Core Concepts (Course 74),2
+370,Projects & Assessment: Hands-on Practice (Course 74),3
+370,Projects & Assessment: Mini Project (Course 74),4
+371,Introduction: Overview (Course 75),1
+371,Introduction: Core Concepts (Course 75),2
+371,Introduction: Hands-on Practice (Course 75),3
+371,Introduction: Mini Project (Course 75),4
+372,Fundamentals: Overview (Course 75),1
+372,Fundamentals: Core Concepts (Course 75),2
+372,Fundamentals: Hands-on Practice (Course 75),3
+372,Fundamentals: Mini Project (Course 75),4
+373,Intermediate Concepts: Overview (Course 75),1
+373,Intermediate Concepts: Core Concepts (Course 75),2
+373,Intermediate Concepts: Hands-on Practice (Course 75),3
+373,Intermediate Concepts: Mini Project (Course 75),4
+374,Advanced Concepts: Overview (Course 75),1
+374,Advanced Concepts: Core Concepts (Course 75),2
+374,Advanced Concepts: Hands-on Practice (Course 75),3
+374,Advanced Concepts: Mini Project (Course 75),4
+375,Projects & Assessment: Overview (Course 75),1
+375,Projects & Assessment: Core Concepts (Course 75),2
+375,Projects & Assessment: Hands-on Practice (Course 75),3
+375,Projects & Assessment: Mini Project (Course 75),4
+376,Introduction: Overview (Course 76),1
+376,Introduction: Core Concepts (Course 76),2
+376,Introduction: Hands-on Practice (Course 76),3
+376,Introduction: Mini Project (Course 76),4
+377,Fundamentals: Overview (Course 76),1
+377,Fundamentals: Core Concepts (Course 76),2
+377,Fundamentals: Hands-on Practice (Course 76),3
+377,Fundamentals: Mini Project (Course 76),4
+378,Intermediate Concepts: Overview (Course 76),1
+378,Intermediate Concepts: Core Concepts (Course 76),2
+378,Intermediate Concepts: Hands-on Practice (Course 76),3
+378,Intermediate Concepts: Mini Project (Course 76),4
+379,Advanced Concepts: Overview (Course 76),1
+379,Advanced Concepts: Core Concepts (Course 76),2
+379,Advanced Concepts: Hands-on Practice (Course 76),3
+379,Advanced Concepts: Mini Project (Course 76),4
+380,Projects & Assessment: Overview (Course 76),1
+380,Projects & Assessment: Core Concepts (Course 76),2
+380,Projects & Assessment: Hands-on Practice (Course 76),3
+380,Projects & Assessment: Mini Project (Course 76),4
+381,Introduction: Overview (Course 77),1
+381,Introduction: Core Concepts (Course 77),2
+381,Introduction: Hands-on Practice (Course 77),3
+381,Introduction: Mini Project (Course 77),4
+382,Fundamentals: Overview (Course 77),1
+382,Fundamentals: Core Concepts (Course 77),2
+382,Fundamentals: Hands-on Practice (Course 77),3
+382,Fundamentals: Mini Project (Course 77),4
+383,Intermediate Concepts: Overview (Course 77),1
+383,Intermediate Concepts: Core Concepts (Course 77),2
+383,Intermediate Concepts: Hands-on Practice (Course 77),3
+383,Intermediate Concepts: Mini Project (Course 77),4
+384,Advanced Concepts: Overview (Course 77),1
+384,Advanced Concepts: Core Concepts (Course 77),2
+384,Advanced Concepts: Hands-on Practice (Course 77),3
+384,Advanced Concepts: Mini Project (Course 77),4
+385,Projects & Assessment: Overview (Course 77),1
+385,Projects & Assessment: Core Concepts (Course 77),2
+385,Projects & Assessment: Hands-on Practice (Course 77),3
+385,Projects & Assessment: Mini Project (Course 77),4
+386,Introduction: Overview (Course 78),1
+386,Introduction: Core Concepts (Course 78),2
+386,Introduction: Hands-on Practice (Course 78),3
+386,Introduction: Mini Project (Course 78),4
+387,Fundamentals: Overview (Course 78),1
+387,Fundamentals: Core Concepts (Course 78),2
+387,Fundamentals: Hands-on Practice (Course 78),3
+387,Fundamentals: Mini Project (Course 78),4
+388,Intermediate Concepts: Overview (Course 78),1
+388,Intermediate Concepts: Core Concepts (Course 78),2
+388,Intermediate Concepts: Hands-on Practice (Course 78),3
+388,Intermediate Concepts: Mini Project (Course 78),4
+389,Advanced Concepts: Overview (Course 78),1
+389,Advanced Concepts: Core Concepts (Course 78),2
+389,Advanced Concepts: Hands-on Practice (Course 78),3
+389,Advanced Concepts: Mini Project (Course 78),4
+390,Projects & Assessment: Overview (Course 78),1
+390,Projects & Assessment: Core Concepts (Course 78),2
+390,Projects & Assessment: Hands-on Practice (Course 78),3
+390,Projects & Assessment: Mini Project (Course 78),4
+391,Introduction: Overview (Course 79),1
+391,Introduction: Core Concepts (Course 79),2
+391,Introduction: Hands-on Practice (Course 79),3
+391,Introduction: Mini Project (Course 79),4
+392,Fundamentals: Overview (Course 79),1
+392,Fundamentals: Core Concepts (Course 79),2
+392,Fundamentals: Hands-on Practice (Course 79),3
+392,Fundamentals: Mini Project (Course 79),4
+393,Intermediate Concepts: Overview (Course 79),1
+393,Intermediate Concepts: Core Concepts (Course 79),2
+393,Intermediate Concepts: Hands-on Practice (Course 79),3
+393,Intermediate Concepts: Mini Project (Course 79),4
+394,Advanced Concepts: Overview (Course 79),1
+394,Advanced Concepts: Core Concepts (Course 79),2
+394,Advanced Concepts: Hands-on Practice (Course 79),3
+394,Advanced Concepts: Mini Project (Course 79),4
+395,Projects & Assessment: Overview (Course 79),1
+395,Projects & Assessment: Core Concepts (Course 79),2
+395,Projects & Assessment: Hands-on Practice (Course 79),3
+395,Projects & Assessment: Mini Project (Course 79),4
+396,Introduction: Overview (Course 80),1
+396,Introduction: Core Concepts (Course 80),2
+396,Introduction: Hands-on Practice (Course 80),3
+396,Introduction: Mini Project (Course 80),4
+397,Fundamentals: Overview (Course 80),1
+397,Fundamentals: Core Concepts (Course 80),2
+397,Fundamentals: Hands-on Practice (Course 80),3
+397,Fundamentals: Mini Project (Course 80),4
+398,Intermediate Concepts: Overview (Course 80),1
+398,Intermediate Concepts: Core Concepts (Course 80),2
+398,Intermediate Concepts: Hands-on Practice (Course 80),3
+398,Intermediate Concepts: Mini Project (Course 80),4
+399,Advanced Concepts: Overview (Course 80),1
+399,Advanced Concepts: Core Concepts (Course 80),2
+399,Advanced Concepts: Hands-on Practice (Course 80),3
+399,Advanced Concepts: Mini Project (Course 80),4
+400,Projects & Assessment: Overview (Course 80),1
+400,Projects & Assessment: Core Concepts (Course 80),2
+400,Projects & Assessment: Hands-on Practice (Course 80),3
+400,Projects & Assessment: Mini Project (Course 80),4
+401,Introduction: Overview (Course 81),1
+401,Introduction: Core Concepts (Course 81),2
+401,Introduction: Hands-on Practice (Course 81),3
+401,Introduction: Mini Project (Course 81),4
+402,Fundamentals: Overview (Course 81),1
+402,Fundamentals: Core Concepts (Course 81),2
+402,Fundamentals: Hands-on Practice (Course 81),3
+402,Fundamentals: Mini Project (Course 81),4
+403,Intermediate Concepts: Overview (Course 81),1
+403,Intermediate Concepts: Core Concepts (Course 81),2
+403,Intermediate Concepts: Hands-on Practice (Course 81),3
+403,Intermediate Concepts: Mini Project (Course 81),4
+404,Advanced Concepts: Overview (Course 81),1
+404,Advanced Concepts: Core Concepts (Course 81),2
+404,Advanced Concepts: Hands-on Practice (Course 81),3
+404,Advanced Concepts: Mini Project (Course 81),4
+405,Projects & Assessment: Overview (Course 81),1
+405,Projects & Assessment: Core Concepts (Course 81),2
+405,Projects & Assessment: Hands-on Practice (Course 81),3
+405,Projects & Assessment: Mini Project (Course 81),4
+406,Introduction: Overview (Course 82),1
+406,Introduction: Core Concepts (Course 82),2
+406,Introduction: Hands-on Practice (Course 82),3
+406,Introduction: Mini Project (Course 82),4
+407,Fundamentals: Overview (Course 82),1
+407,Fundamentals: Core Concepts (Course 82),2
+407,Fundamentals: Hands-on Practice (Course 82),3
+407,Fundamentals: Mini Project (Course 82),4
+408,Intermediate Concepts: Overview (Course 82),1
+408,Intermediate Concepts: Core Concepts (Course 82),2
+408,Intermediate Concepts: Hands-on Practice (Course 82),3
+408,Intermediate Concepts: Mini Project (Course 82),4
+409,Advanced Concepts: Overview (Course 82),1
+409,Advanced Concepts: Core Concepts (Course 82),2
+409,Advanced Concepts: Hands-on Practice (Course 82),3
+409,Advanced Concepts: Mini Project (Course 82),4
+410,Projects & Assessment: Overview (Course 82),1
+410,Projects & Assessment: Core Concepts (Course 82),2
+410,Projects & Assessment: Hands-on Practice (Course 82),3
+410,Projects & Assessment: Mini Project (Course 82),4
+411,Introduction: Overview (Course 83),1
+411,Introduction: Core Concepts (Course 83),2
+411,Introduction: Hands-on Practice (Course 83),3
+411,Introduction: Mini Project (Course 83),4
+412,Fundamentals: Overview (Course 83),1
+412,Fundamentals: Core Concepts (Course 83),2
+412,Fundamentals: Hands-on Practice (Course 83),3
+412,Fundamentals: Mini Project (Course 83),4
+413,Intermediate Concepts: Overview (Course 83),1
+413,Intermediate Concepts: Core Concepts (Course 83),2
+413,Intermediate Concepts: Hands-on Practice (Course 83),3
+413,Intermediate Concepts: Mini Project (Course 83),4
+414,Advanced Concepts: Overview (Course 83),1
+414,Advanced Concepts: Core Concepts (Course 83),2
+414,Advanced Concepts: Hands-on Practice (Course 83),3
+414,Advanced Concepts: Mini Project (Course 83),4
+415,Projects & Assessment: Overview (Course 83),1
+415,Projects & Assessment: Core Concepts (Course 83),2
+415,Projects & Assessment: Hands-on Practice (Course 83),3
+415,Projects & Assessment: Mini Project (Course 83),4
+416,Introduction: Overview (Course 84),1
+416,Introduction: Core Concepts (Course 84),2
+416,Introduction: Hands-on Practice (Course 84),3
+416,Introduction: Mini Project (Course 84),4
+417,Fundamentals: Overview (Course 84),1
+417,Fundamentals: Core Concepts (Course 84),2
+417,Fundamentals: Hands-on Practice (Course 84),3
+417,Fundamentals: Mini Project (Course 84),4
+418,Intermediate Concepts: Overview (Course 84),1
+418,Intermediate Concepts: Core Concepts (Course 84),2
+418,Intermediate Concepts: Hands-on Practice (Course 84),3
+418,Intermediate Concepts: Mini Project (Course 84),4
+419,Advanced Concepts: Overview (Course 84),1
+419,Advanced Concepts: Core Concepts (Course 84),2
+419,Advanced Concepts: Hands-on Practice (Course 84),3
+419,Advanced Concepts: Mini Project (Course 84),4
+420,Projects & Assessment: Overview (Course 84),1
+420,Projects & Assessment: Core Concepts (Course 84),2
+420,Projects & Assessment: Hands-on Practice (Course 84),3
+420,Projects & Assessment: Mini Project (Course 84),4
+421,Introduction: Overview (Course 85),1
+421,Introduction: Core Concepts (Course 85),2
+421,Introduction: Hands-on Practice (Course 85),3
+421,Introduction: Mini Project (Course 85),4
+422,Fundamentals: Overview (Course 85),1
+422,Fundamentals: Core Concepts (Course 85),2
+422,Fundamentals: Hands-on Practice (Course 85),3
+422,Fundamentals: Mini Project (Course 85),4
+423,Intermediate Concepts: Overview (Course 85),1
+423,Intermediate Concepts: Core Concepts (Course 85),2
+423,Intermediate Concepts: Hands-on Practice (Course 85),3
+423,Intermediate Concepts: Mini Project (Course 85),4
+424,Advanced Concepts: Overview (Course 85),1
+424,Advanced Concepts: Core Concepts (Course 85),2
+424,Advanced Concepts: Hands-on Practice (Course 85),3
+424,Advanced Concepts: Mini Project (Course 85),4
+425,Projects & Assessment: Overview (Course 85),1
+425,Projects & Assessment: Core Concepts (Course 85),2
+425,Projects & Assessment: Hands-on Practice (Course 85),3
+425,Projects & Assessment: Mini Project (Course 85),4
+426,Introduction: Overview (Course 86),1
+426,Introduction: Core Concepts (Course 86),2
+426,Introduction: Hands-on Practice (Course 86),3
+426,Introduction: Mini Project (Course 86),4
+427,Fundamentals: Overview (Course 86),1
+427,Fundamentals: Core Concepts (Course 86),2
+427,Fundamentals: Hands-on Practice (Course 86),3
+427,Fundamentals: Mini Project (Course 86),4
+428,Intermediate Concepts: Overview (Course 86),1
+428,Intermediate Concepts: Core Concepts (Course 86),2
+428,Intermediate Concepts: Hands-on Practice (Course 86),3
+428,Intermediate Concepts: Mini Project (Course 86),4
+429,Advanced Concepts: Overview (Course 86),1
+429,Advanced Concepts: Core Concepts (Course 86),2
+429,Advanced Concepts: Hands-on Practice (Course 86),3
+429,Advanced Concepts: Mini Project (Course 86),4
+430,Projects & Assessment: Overview (Course 86),1
+430,Projects & Assessment: Core Concepts (Course 86),2
+430,Projects & Assessment: Hands-on Practice (Course 86),3
+430,Projects & Assessment: Mini Project (Course 86),4
+431,Introduction: Overview (Course 87),1
+431,Introduction: Core Concepts (Course 87),2
+431,Introduction: Hands-on Practice (Course 87),3
+431,Introduction: Mini Project (Course 87),4
+432,Fundamentals: Overview (Course 87),1
+432,Fundamentals: Core Concepts (Course 87),2
+432,Fundamentals: Hands-on Practice (Course 87),3
+432,Fundamentals: Mini Project (Course 87),4
+433,Intermediate Concepts: Overview (Course 87),1
+433,Intermediate Concepts: Core Concepts (Course 87),2
+433,Intermediate Concepts: Hands-on Practice (Course 87),3
+433,Intermediate Concepts: Mini Project (Course 87),4
+434,Advanced Concepts: Overview (Course 87),1
+434,Advanced Concepts: Core Concepts (Course 87),2
+434,Advanced Concepts: Hands-on Practice (Course 87),3
+434,Advanced Concepts: Mini Project (Course 87),4
+435,Projects & Assessment: Overview (Course 87),1
+435,Projects & Assessment: Core Concepts (Course 87),2
+435,Projects & Assessment: Hands-on Practice (Course 87),3
+435,Projects & Assessment: Mini Project (Course 87),4
+436,Introduction: Overview (Course 88),1
+436,Introduction: Core Concepts (Course 88),2
+436,Introduction: Hands-on Practice (Course 88),3
+436,Introduction: Mini Project (Course 88),4
+437,Fundamentals: Overview (Course 88),1
+437,Fundamentals: Core Concepts (Course 88),2
+437,Fundamentals: Hands-on Practice (Course 88),3
+437,Fundamentals: Mini Project (Course 88),4
+438,Intermediate Concepts: Overview (Course 88),1
+438,Intermediate Concepts: Core Concepts (Course 88),2
+438,Intermediate Concepts: Hands-on Practice (Course 88),3
+438,Intermediate Concepts: Mini Project (Course 88),4
+439,Advanced Concepts: Overview (Course 88),1
+439,Advanced Concepts: Core Concepts (Course 88),2
+439,Advanced Concepts: Hands-on Practice (Course 88),3
+439,Advanced Concepts: Mini Project (Course 88),4
+440,Projects & Assessment: Overview (Course 88),1
+440,Projects & Assessment: Core Concepts (Course 88),2
+440,Projects & Assessment: Hands-on Practice (Course 88),3
+440,Projects & Assessment: Mini Project (Course 88),4
+441,Introduction: Overview (Course 89),1
+441,Introduction: Core Concepts (Course 89),2
+441,Introduction: Hands-on Practice (Course 89),3
+441,Introduction: Mini Project (Course 89),4
+442,Fundamentals: Overview (Course 89),1
+442,Fundamentals: Core Concepts (Course 89),2
+442,Fundamentals: Hands-on Practice (Course 89),3
+442,Fundamentals: Mini Project (Course 89),4
+443,Intermediate Concepts: Overview (Course 89),1
+443,Intermediate Concepts: Core Concepts (Course 89),2
+443,Intermediate Concepts: Hands-on Practice (Course 89),3
+443,Intermediate Concepts: Mini Project (Course 89),4
+444,Advanced Concepts: Overview (Course 89),1
+444,Advanced Concepts: Core Concepts (Course 89),2
+444,Advanced Concepts: Hands-on Practice (Course 89),3
+444,Advanced Concepts: Mini Project (Course 89),4
+445,Projects & Assessment: Overview (Course 89),1
+445,Projects & Assessment: Core Concepts (Course 89),2
+445,Projects & Assessment: Hands-on Practice (Course 89),3
+445,Projects & Assessment: Mini Project (Course 89),4
+446,Introduction: Overview (Course 90),1
+446,Introduction: Core Concepts (Course 90),2
+446,Introduction: Hands-on Practice (Course 90),3
+446,Introduction: Mini Project (Course 90),4
+447,Fundamentals: Overview (Course 90),1
+447,Fundamentals: Core Concepts (Course 90),2
+447,Fundamentals: Hands-on Practice (Course 90),3
+447,Fundamentals: Mini Project (Course 90),4
+448,Intermediate Concepts: Overview (Course 90),1
+448,Intermediate Concepts: Core Concepts (Course 90),2
+448,Intermediate Concepts: Hands-on Practice (Course 90),3
+448,Intermediate Concepts: Mini Project (Course 90),4
+449,Advanced Concepts: Overview (Course 90),1
+449,Advanced Concepts: Core Concepts (Course 90),2
+449,Advanced Concepts: Hands-on Practice (Course 90),3
+449,Advanced Concepts: Mini Project (Course 90),4
+450,Projects & Assessment: Overview (Course 90),1
+450,Projects & Assessment: Core Concepts (Course 90),2
+450,Projects & Assessment: Hands-on Practice (Course 90),3
+450,Projects & Assessment: Mini Project (Course 90),4
+451,Introduction: Overview (Course 91),1
+451,Introduction: Core Concepts (Course 91),2
+451,Introduction: Hands-on Practice (Course 91),3
+451,Introduction: Mini Project (Course 91),4
+452,Fundamentals: Overview (Course 91),1
+452,Fundamentals: Core Concepts (Course 91),2
+452,Fundamentals: Hands-on Practice (Course 91),3
+452,Fundamentals: Mini Project (Course 91),4
+453,Intermediate Concepts: Overview (Course 91),1
+453,Intermediate Concepts: Core Concepts (Course 91),2
+453,Intermediate Concepts: Hands-on Practice (Course 91),3
+453,Intermediate Concepts: Mini Project (Course 91),4
+454,Advanced Concepts: Overview (Course 91),1
+454,Advanced Concepts: Core Concepts (Course 91),2
+454,Advanced Concepts: Hands-on Practice (Course 91),3
+454,Advanced Concepts: Mini Project (Course 91),4
+455,Projects & Assessment: Overview (Course 91),1
+455,Projects & Assessment: Core Concepts (Course 91),2
+455,Projects & Assessment: Hands-on Practice (Course 91),3
+455,Projects & Assessment: Mini Project (Course 91),4
+456,Introduction: Overview (Course 92),1
+456,Introduction: Core Concepts (Course 92),2
+456,Introduction: Hands-on Practice (Course 92),3
+456,Introduction: Mini Project (Course 92),4
+457,Fundamentals: Overview (Course 92),1
+457,Fundamentals: Core Concepts (Course 92),2
+457,Fundamentals: Hands-on Practice (Course 92),3
+457,Fundamentals: Mini Project (Course 92),4
+458,Intermediate Concepts: Overview (Course 92),1
+458,Intermediate Concepts: Core Concepts (Course 92),2
+458,Intermediate Concepts: Hands-on Practice (Course 92),3
+458,Intermediate Concepts: Mini Project (Course 92),4
+459,Advanced Concepts: Overview (Course 92),1
+459,Advanced Concepts: Core Concepts (Course 92),2
+459,Advanced Concepts: Hands-on Practice (Course 92),3
+459,Advanced Concepts: Mini Project (Course 92),4
+460,Projects & Assessment: Overview (Course 92),1
+460,Projects & Assessment: Core Concepts (Course 92),2
+460,Projects & Assessment: Hands-on Practice (Course 92),3
+460,Projects & Assessment: Mini Project (Course 92),4
+461,Introduction: Overview (Course 93),1
+461,Introduction: Core Concepts (Course 93),2
+461,Introduction: Hands-on Practice (Course 93),3
+461,Introduction: Mini Project (Course 93),4
+462,Fundamentals: Overview (Course 93),1
+462,Fundamentals: Core Concepts (Course 93),2
+462,Fundamentals: Hands-on Practice (Course 93),3
+462,Fundamentals: Mini Project (Course 93),4
+463,Intermediate Concepts: Overview (Course 93),1
+463,Intermediate Concepts: Core Concepts (Course 93),2
+463,Intermediate Concepts: Hands-on Practice (Course 93),3
+463,Intermediate Concepts: Mini Project (Course 93),4
+464,Advanced Concepts: Overview (Course 93),1
+464,Advanced Concepts: Core Concepts (Course 93),2
+464,Advanced Concepts: Hands-on Practice (Course 93),3
+464,Advanced Concepts: Mini Project (Course 93),4
+465,Projects & Assessment: Overview (Course 93),1
+465,Projects & Assessment: Core Concepts (Course 93),2
+465,Projects & Assessment: Hands-on Practice (Course 93),3
+465,Projects & Assessment: Mini Project (Course 93),4
+466,Introduction: Overview (Course 94),1
+466,Introduction: Core Concepts (Course 94),2
+466,Introduction: Hands-on Practice (Course 94),3
+466,Introduction: Mini Project (Course 94),4
+467,Fundamentals: Overview (Course 94),1
+467,Fundamentals: Core Concepts (Course 94),2
+467,Fundamentals: Hands-on Practice (Course 94),3
+467,Fundamentals: Mini Project (Course 94),4
+468,Intermediate Concepts: Overview (Course 94),1
+468,Intermediate Concepts: Core Concepts (Course 94),2
+468,Intermediate Concepts: Hands-on Practice (Course 94),3
+468,Intermediate Concepts: Mini Project (Course 94),4
+469,Advanced Concepts: Overview (Course 94),1
+469,Advanced Concepts: Core Concepts (Course 94),2
+469,Advanced Concepts: Hands-on Practice (Course 94),3
+469,Advanced Concepts: Mini Project (Course 94),4
+470,Projects & Assessment: Overview (Course 94),1
+470,Projects & Assessment: Core Concepts (Course 94),2
+470,Projects & Assessment: Hands-on Practice (Course 94),3
+470,Projects & Assessment: Mini Project (Course 94),4
+471,Introduction: Overview (Course 95),1
+471,Introduction: Core Concepts (Course 95),2
+471,Introduction: Hands-on Practice (Course 95),3
+471,Introduction: Mini Project (Course 95),4
+472,Fundamentals: Overview (Course 95),1
+472,Fundamentals: Core Concepts (Course 95),2
+472,Fundamentals: Hands-on Practice (Course 95),3
+472,Fundamentals: Mini Project (Course 95),4
+473,Intermediate Concepts: Overview (Course 95),1
+473,Intermediate Concepts: Core Concepts (Course 95),2
+473,Intermediate Concepts: Hands-on Practice (Course 95),3
+473,Intermediate Concepts: Mini Project (Course 95),4
+474,Advanced Concepts: Overview (Course 95),1
+474,Advanced Concepts: Core Concepts (Course 95),2
+474,Advanced Concepts: Hands-on Practice (Course 95),3
+474,Advanced Concepts: Mini Project (Course 95),4
+475,Projects & Assessment: Overview (Course 95),1
+475,Projects & Assessment: Core Concepts (Course 95),2
+475,Projects & Assessment: Hands-on Practice (Course 95),3
+475,Projects & Assessment: Mini Project (Course 95),4
+476,Introduction: Overview (Course 96),1
+476,Introduction: Core Concepts (Course 96),2
+476,Introduction: Hands-on Practice (Course 96),3
+476,Introduction: Mini Project (Course 96),4
+477,Fundamentals: Overview (Course 96),1
+477,Fundamentals: Core Concepts (Course 96),2
+477,Fundamentals: Hands-on Practice (Course 96),3
+477,Fundamentals: Mini Project (Course 96),4
+478,Intermediate Concepts: Overview (Course 96),1
+478,Intermediate Concepts: Core Concepts (Course 96),2
+478,Intermediate Concepts: Hands-on Practice (Course 96),3
+478,Intermediate Concepts: Mini Project (Course 96),4
+479,Advanced Concepts: Overview (Course 96),1
+479,Advanced Concepts: Core Concepts (Course 96),2
+479,Advanced Concepts: Hands-on Practice (Course 96),3
+479,Advanced Concepts: Mini Project (Course 96),4
+480,Projects & Assessment: Overview (Course 96),1
+480,Projects & Assessment: Core Concepts (Course 96),2
+480,Projects & Assessment: Hands-on Practice (Course 96),3
+480,Projects & Assessment: Mini Project (Course 96),4
+481,Introduction: Overview (Course 97),1
+481,Introduction: Core Concepts (Course 97),2
+481,Introduction: Hands-on Practice (Course 97),3
+481,Introduction: Mini Project (Course 97),4
+482,Fundamentals: Overview (Course 97),1
+482,Fundamentals: Core Concepts (Course 97),2
+482,Fundamentals: Hands-on Practice (Course 97),3
+482,Fundamentals: Mini Project (Course 97),4
+483,Intermediate Concepts: Overview (Course 97),1
+483,Intermediate Concepts: Core Concepts (Course 97),2
+483,Intermediate Concepts: Hands-on Practice (Course 97),3
+483,Intermediate Concepts: Mini Project (Course 97),4
+484,Advanced Concepts: Overview (Course 97),1
+484,Advanced Concepts: Core Concepts (Course 97),2
+484,Advanced Concepts: Hands-on Practice (Course 97),3
+484,Advanced Concepts: Mini Project (Course 97),4
+485,Projects & Assessment: Overview (Course 97),1
+485,Projects & Assessment: Core Concepts (Course 97),2
+485,Projects & Assessment: Hands-on Practice (Course 97),3
+485,Projects & Assessment: Mini Project (Course 97),4
+486,Introduction: Overview (Course 98),1
+486,Introduction: Core Concepts (Course 98),2
+486,Introduction: Hands-on Practice (Course 98),3
+486,Introduction: Mini Project (Course 98),4
+487,Fundamentals: Overview (Course 98),1
+487,Fundamentals: Core Concepts (Course 98),2
+487,Fundamentals: Hands-on Practice (Course 98),3
+487,Fundamentals: Mini Project (Course 98),4
+488,Intermediate Concepts: Overview (Course 98),1
+488,Intermediate Concepts: Core Concepts (Course 98),2
+488,Intermediate Concepts: Hands-on Practice (Course 98),3
+488,Intermediate Concepts: Mini Project (Course 98),4
+489,Advanced Concepts: Overview (Course 98),1
+489,Advanced Concepts: Core Concepts (Course 98),2
+489,Advanced Concepts: Hands-on Practice (Course 98),3
+489,Advanced Concepts: Mini Project (Course 98),4
+490,Projects & Assessment: Overview (Course 98),1
+490,Projects & Assessment: Core Concepts (Course 98),2
+490,Projects & Assessment: Hands-on Practice (Course 98),3
+490,Projects & Assessment: Mini Project (Course 98),4
+491,Introduction: Overview (Course 99),1
+491,Introduction: Core Concepts (Course 99),2
+491,Introduction: Hands-on Practice (Course 99),3
+491,Introduction: Mini Project (Course 99),4
+492,Fundamentals: Overview (Course 99),1
+492,Fundamentals: Core Concepts (Course 99),2
+492,Fundamentals: Hands-on Practice (Course 99),3
+492,Fundamentals: Mini Project (Course 99),4
+493,Intermediate Concepts: Overview (Course 99),1
+493,Intermediate Concepts: Core Concepts (Course 99),2
+493,Intermediate Concepts: Hands-on Practice (Course 99),3
+493,Intermediate Concepts: Mini Project (Course 99),4
+494,Advanced Concepts: Overview (Course 99),1
+494,Advanced Concepts: Core Concepts (Course 99),2
+494,Advanced Concepts: Hands-on Practice (Course 99),3
+494,Advanced Concepts: Mini Project (Course 99),4
+495,Projects & Assessment: Overview (Course 99),1
+495,Projects & Assessment: Core Concepts (Course 99),2
+495,Projects & Assessment: Hands-on Practice (Course 99),3
+495,Projects & Assessment: Mini Project (Course 99),4
+496,Introduction: Overview (Course 100),1
+496,Introduction: Core Concepts (Course 100),2
+496,Introduction: Hands-on Practice (Course 100),3
+496,Introduction: Mini Project (Course 100),4
+497,Fundamentals: Overview (Course 100),1
+497,Fundamentals: Core Concepts (Course 100),2
+497,Fundamentals: Hands-on Practice (Course 100),3
+497,Fundamentals: Mini Project (Course 100),4
+498,Intermediate Concepts: Overview (Course 100),1
+498,Intermediate Concepts: Core Concepts (Course 100),2
+498,Intermediate Concepts: Hands-on Practice (Course 100),3
+498,Intermediate Concepts: Mini Project (Course 100),4
+499,Advanced Concepts: Overview (Course 100),1
+499,Advanced Concepts: Core Concepts (Course 100),2
+499,Advanced Concepts: Hands-on Practice (Course 100),3
+499,Advanced Concepts: Mini Project (Course 100),4
+500,Projects & Assessment: Overview (Course 100),1
+500,Projects & Assessment: Core Concepts (Course 100),2
+500,Projects & Assessment: Hands-on Practice (Course 100),3
+500,Projects & Assessment: Mini Project (Course 100),4

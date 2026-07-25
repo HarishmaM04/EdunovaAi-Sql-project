@@ -1,0 +1,100 @@
+instructor_id,course_title,level,price
+2,Python Programming,Intermediate,2999
+3,Advanced Python,Advanced,1999
+4,SQL for Beginners,Beginner,4999
+5,Advanced SQL,Beginner,1999
+6,Database Design,Beginner,2999
+7,MySQL Mastery,Intermediate,4999
+8,PostgreSQL Essentials,Intermediate,2999
+9,Data Analytics with Excel,Intermediate,7999
+10,Advanced Excel,Beginner,1999
+11,Power BI,Intermediate,2999
+12,Tableau,Advanced,2999
+13,Statistics for Data Science,Advanced,1999
+14,Probability Basics,Intermediate,9999
+15,Machine Learning,Advanced,4999
+16,Advanced Machine Learning,Advanced,3999
+17,Deep Learning,Beginner,1999
+18,Artificial Intelligence,Advanced,1999
+19,Generative AI,Intermediate,5999
+20,Prompt Engineering,Beginner,1999
+21,NLP Fundamentals,Intermediate,5999
+22,Computer Vision,Advanced,4999
+23,Data Mining,Intermediate,5999
+24,Big Data,Beginner,5999
+25,Apache Spark,Intermediate,7999
+26,Hadoop,Intermediate,2999
+27,Data Visualization,Intermediate,5999
+28,Business Analytics,Advanced,7999
+29,Cloud Computing,Intermediate,4999
+30,AWS Cloud,Beginner,9999
+31,Azure Fundamentals,Beginner,1999
+32,Google Cloud,Beginner,9999
+33,Docker,Intermediate,1999
+34,Kubernetes,Intermediate,5999
+35,Git & GitHub,Beginner,2999
+36,Linux Administration,Advanced,5999
+37,Cyber Security,Advanced,2999
+38,Ethical Hacking,Advanced,9999
+39,Network Security,Advanced,5999
+40,Java Programming,Advanced,2999
+41,Advanced Java,Intermediate,1999
+42,Spring Boot,Advanced,3999
+43,C Programming,Intermediate,2999
+44,C++ Programming,Beginner,1999
+45,Data Structures,Beginner,7999
+46,Algorithms,Intermediate,5999
+47,MERN Stack,Beginner,5999
+48,React JS,Beginner,2999
+49,Node.js,Advanced,9999
+50,Express.js,Intermediate,2999
+51,MongoDB,Advanced,2999
+2,REST API Development,Advanced,7999
+3,PHP,Intermediate,1999
+4,Laravel,Beginner,2999
+5,HTML5,Beginner,9999
+6,CSS3,Intermediate,5999
+7,JavaScript,Advanced,1999
+8,TypeScript,Intermediate,5999
+9,Bootstrap,Intermediate,7999
+10,Tailwind CSS,Intermediate,7999
+11,UI/UX Design,Beginner,1999
+12,Figma,Advanced,1999
+13,Android Development,Intermediate,9999
+14,Flutter,Advanced,7999
+15,React Native,Intermediate,2999
+16,IoT Fundamentals,Beginner,5999
+17,Embedded Systems,Intermediate,1999
+18,R Programming,Advanced,2999
+19,MATLAB,Beginner,5999
+20,TensorFlow,Beginner,3999
+21,PyTorch,Advanced,1999
+22,Scikit-learn,Advanced,4999
+23,OpenCV,Advanced,4999
+24,LangChain,Intermediate,5999
+25,LlamaIndex,Advanced,7999
+26,AI Agents,Beginner,4999
+27,Software Testing,Advanced,4999
+28,Manual Testing,Intermediate,3999
+29,Selenium,Intermediate,3999
+30,Jenkins,Intermediate,9999
+31,DevOps,Intermediate,3999
+32,CI/CD Pipelines,Beginner,5999
+33,Agile Scrum,Beginner,4999
+34,Project Management,Beginner,5999
+35,Business Intelligence,Intermediate,9999
+36,Financial Analytics,Beginner,4999
+37,Healthcare Analytics,Intermediate,2999
+38,HR Analytics,Intermediate,7999
+39,Marketing Analytics,Intermediate,5999
+40,Supply Chain Analytics,Advanced,2999
+41,Blockchain,Beginner,5999
+42,Web Development,Beginner,7999
+43,Full Stack Development,Beginner,4999
+44,Object Oriented Programming,Advanced,1999
+45,Operating Systems,Beginner,9999
+46,Computer Networks,Advanced,1999
+47,Discrete Mathematics,Beginner,2999
+48,Linear Algebra,Advanced,7999
+49,Calculus for AI,Beginner,2999
+50,Interview Preparation,Advanced,9999

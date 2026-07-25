@@ -1,0 +1,12 @@
+course_id,instructor_id,course_title,level,price
+33,14,"Probability Basics",Intermediate,9999.00
+49,30,"AWS Cloud",Beginner,9999.00
+51,32,"Google Cloud",Beginner,9999.00
+57,38,"Ethical Hacking",Advanced,9999.00
+68,49,Node.js,Advanced,9999.00
+74,5,HTML5,Beginner,9999.00
+82,13,"Android Development",Intermediate,9999.00
+99,30,Jenkins,Intermediate,9999.00
+104,35,"Business Intelligence",Intermediate,9999.00
+114,45,"Operating Systems",Beginner,9999.00
+119,50,"Interview Preparation",Advanced,9999.00
